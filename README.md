@@ -4,12 +4,20 @@ A small data pipeline and self-contained dashboard that helps a hotel group's
 marketing teams see which licensed photos are about to expire, who owns each
 one, and what has changed since the last report.
 
+![Image Expiry Desk](images/social-card.png)
+
+**[Open the live demo →](https://llambrano.github.io/image-expiry-desk/)**
+
+One self-contained HTML file, served by GitHub Pages. No server, no build step
+at view time, no database. Clone the repo and open `docs/index.html` and you
+get the same page offline.
+
+---
+
 > **All data in this repository is synthetic.** "Northvale Hotel Group", its
 > brands, properties, owners, operators, people, asset IDs and URLs are
-> invented. Asset links point to `example.com`, a domain reserved for
-> documentation.
-
-![Portfolio view](docs/screenshot-portfolios.png)
+> invented. Asset URLs point to `example.com`, a domain reserved for
+> documentation, and "View asset" shows a sample illustration instead.
 
 ## The problem
 
@@ -42,6 +50,8 @@ marketing manager), and see exactly what to renew this week.
 - **Sample images** - "View asset" opens one of ten original illustrations in
   `docs/assets/sample-images/`, matched to the asset's room type (drawn in
   code by `scripts/make_sample_images.py`)
+
+![Portfolio view](docs/screenshot-portfolios.png)
 
 ![Drill-down view](docs/screenshot-drilldown.png)
 
@@ -94,9 +104,9 @@ current date, as the production version did.
 
 ## Live demo
 
-Enable GitHub Pages for this repository (Settings -> Pages -> deploy from the
-`main` branch, `/docs` folder) and the dashboard is served at
-`https://<your-username>.github.io/<repo-name>/`.
+**[llambrano.github.io/image-expiry-desk](https://llambrano.github.io/image-expiry-desk/)**,
+served by GitHub Pages from the `/docs` folder of the `main` branch. Rebuilding
+the dashboard (`make`) updates `docs/index.html`, and the next push publishes it.
 
 ## Tech
 
