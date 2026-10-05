@@ -72,7 +72,9 @@ h1,h2,h3{text-wrap:balance}
 .masthead{background:var(--deep)}
 .masthead-in{max-width:1140px;margin:0 auto;padding:20px 16px 19px;
   display:flex;align-items:center;gap:18px;flex-wrap:wrap}
-.logo{display:flex;align-items:center;gap:10px;color:#FFFFFF;flex:none}
+.logo{display:flex;align-items:center;gap:10px;color:#FFFFFF;flex:none;text-decoration:none;border-radius:6px}
+.logo:hover b{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.logo:focus-visible{outline-color:#FFFFFF;outline-offset:4px}
 .logo svg{display:block}
 .logo b{font-size:17px;font-weight:700;letter-spacing:.01em}
 .logo b span{font-weight:400;opacity:.8}
@@ -248,10 +250,10 @@ tr.det td{padding:0;background:var(--surface-2)}
 <body>
 <div class="masthead">
   <div class="masthead-in">
-    <div class="logo" aria-label="Northvale Hotel Group (fictional)">
+    <a class="logo" id="home" href="./" title="Back to portfolios by brand" aria-label="Northvale Hotel Group (fictional) - back to portfolios by brand">
       <svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><rect x="1" y="1" width="28" height="28" rx="6" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M8 22V8l14 14V8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/></svg>
       <b>Northvale <span>Hotel Group</span></b>
-    </div>
+    </a>
     <div class="mast-t">Digital Assets<span>Image expiry monitoring</span></div>
   </div>
 </div>
@@ -539,6 +541,14 @@ tr.det td{padding:0;background:var(--surface-2)}
     document.getElementById('view-scope').hidden=false;
     renderScope(); window.scrollTo(0,0);
   }
+
+  /* the logo is the home link: back to the chooser, grouped by brand */
+  document.getElementById('home').addEventListener('click',function(e){
+    e.preventDefault();
+    closeViewer();
+    state.dim='b';
+    goChoose();
+  });
 
   /* ---------- wiring ---------- */
   document.getElementById('dimtabs').addEventListener('click',function(e){
