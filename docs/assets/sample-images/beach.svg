@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7CC6EA"/><stop offset="1" stop-color="#CDEBF7"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="220" cy="150" r="70" fill="#FFE59A"/>
+<rect y="360" width="1200" height="160" fill="#2B94C4"/>
+<rect y="360" width="1200" height="40" fill="#1F7FAE"/>
+<path d="M0 500 Q300 470 600 500 T1200 495 V800 H0Z" fill="#F2DEB0"/>
+<path d="M0 505 Q300 480 600 508 T1200 500" stroke="#FFFFFF" stroke-width="10" fill="none" stroke-opacity=".8"/>
+<line x1="420" y1="700" x2="440" y2="470" stroke="#6B5236" stroke-width="7"/><path d="M300 500 Q440 390 580 500Z" fill="#F4F1EA"/><line x1="820" y1="700" x2="840" y2="470" stroke="#6B5236" stroke-width="7"/><path d="M700 500 Q840 390 980 500Z" fill="#2E7D8C"/>
+<g fill="#FFFFFF"><rect x="330" y="660" width="170" height="30" rx="8"/><rect x="460" y="626" width="40" height="44" rx="6"/><rect x="730" y="660" width="170" height="30" rx="8"/><rect x="860" y="626" width="40" height="44" rx="6"/></g>
+<path d="M1080 700 C1070 560 1060 470 1100 360" stroke="#7B5A3A" stroke-width="18" fill="none"/>
+<g fill="#3F8A52"><path d="M1100 360 q-110 -10 -160 60 q90 -30 160 -60z"/><path d="M1100 360 q110 -30 170 40 q-90 -20 -170 -40z"/><path d="M1100 360 q-30 -90 30 -140 q-10 80 -30 140z"/><path d="M1100 360 q60 -80 140 -70 q-80 30 -140 70z"/></g>
+<path d="M700 300 l20 -10 l20 10" stroke="#3A4B5C" stroke-width="4" fill="none"/><path d="M780 270 l16 -8 l16 8" stroke="#3A4B5C" stroke-width="4" fill="none"/><g font-family="Helvetica,Arial,sans-serif"><rect x="32" y="722" width="195" height="46" rx="8" fill="#0F1B24" fill-opacity=".72"/><text x="52" y="752" font-size="20" font-weight="700" fill="#fff" letter-spacing="1.5">SAMPLE</text><text x="148" y="752" font-size="20" fill="#DCE6EE">Beach</text></g></svg>

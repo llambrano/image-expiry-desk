@@ -1,0 +1,632 @@
+Property Code,Property Name,Brand,Status,Category,Property Type,Keys,Country,Division,Ownership Type,Owner,Reporting Relationship,Operator,Field Mktg Mgr
+HOUPL,Vale Place Houston Central,Vale Place,Open,Select Service,Resort,206,United States,Americas Division,Public Company,Wexford Hotel Holdings,Franchised,Sableridge Hotel Partners,Tomas Okafor
+SANGR,Northvale Grand Santiago,Northvale Grand,Open,Full Service,Business,300,Chile,Americas Division,Institutional Fund,Sterling Vale Hotel Holdings,Franchised,Corvel Hospitality,Priya Abernathy
+HANAR,Hotel Ostara Hangzhou,The Archive Collection,Open,Lifestyle,Urban,528,China,Lifestyle Division,Public Company,Lowell Investments Ltd.,Managed,Northvale Hotel Group,
+GUAGR,Northvale Grand Guanacaste,Northvale Grand,Open,Full Service,Urban,842,Costa Rica,Americas Division,Institutional Fund,Kingsmere Real Estate Partners,Franchised,Ninefold Hotel Services,
+BANKE,Kestrel Reserve Bangkok,Kestrel Reserve,Open,Luxury,Business,95,Thailand,APAC Division,REIT,Wexford Hotel Holdings,Managed,Northvale Hotel Group,
+DANLU,Lumen Da Nang,Lumen Hotels,Open,Lifestyle,Urban,320,Vietnam,Lifestyle Division,Private Individual,Verity Development LLC,Managed,Northvale Hotel Group,Jordan Lindqvist
+SAOPL,Vale Place Sao Paulo Riverfront,Vale Place,Open,Select Service,Business,136,Brazil,Americas Division,Public Company,Wexford Capital LLC,Managed,Northvale Hotel Group,Priya Ivanova
+ROMLU,Lumen Rome,Lumen Hotels,Open,Lifestyle,Resort,581,Italy,Lifestyle Division,Private Individual,Redfern Property Trust,Managed,Northvale Hotel Group,Chris Okafor
+RIOLU,Lumen Rio de Janeiro,Lumen Hotels,Open,Lifestyle,Business,284,Brazil,Lifestyle Division,Private Company,Birchgate Investments Ltd.,Managed,Northvale Hotel Group,Jordan Lindqvist
+RIOPL,Vale Place Rio de Janeiro Old Town,Vale Place,Open,Select Service,Business,121,Brazil,Americas Division,Private Company,Lowell Property Trust,Franchised,Larkspur Management Ltd.,Aisha Okafor
+MYKNO,Northvale Mykonos,Northvale Hotels,Open,Full Service,Resort,550,Greece,EMEA Division,REIT,Harrow Investments Ltd.,Managed,Northvale Hotel Group,Chris Okafor
+MYKTI,Tidewater Resorts Mykonos Resort,Tidewater Resorts,Open,All Inclusive,Resort,522,Greece,EMEA Division,Institutional Fund,Calder Development LLC,Franchised,Tamsin Lodging Co.,Jordan Abernathy
+PERCL,Northvale Vacation Club Perth,Northvale Vacation Club,Open,Timeshare,Resort,186,Australia,APAC Division,Public Company,Harrow Capital LLC,Franchised,Brightwater Operating Group,Tomas Okafor
+HANPL,Vale Place Hanoi,Vale Place,Open,Select Service,Urban,210,Vietnam,APAC Division,REIT,Calder Hotel Holdings,Franchised,Larkspur Management Ltd.,Jordan Moreau
+PUNTI,Tidewater Resorts Punta Cana Resort,Tidewater Resorts,Open,All Inclusive,Resort,650,Dominican Republic,Americas Division,REIT,Lowell Hotel Holdings,Franchised,Ninefold Hotel Services,
+KUAKE,Kestrel Reserve Kuala Lumpur,Kestrel Reserve,Open,Luxury,Business,120,Malaysia,APAC Division,REIT,Birchgate Capital LLC,Managed,Northvale Hotel Group,Priya Abernathy
+LIMHO,Vale House Lima,Vale House,Open,Select Service,Urban,95,Peru,Americas Division,Private Company,Castellan Investments Ltd.,Franchised,Sableridge Hotel Partners,Jordan Castillo
+OSANO,Northvale Osaka Central,Northvale Hotels,Open,Full Service,Urban,737,Japan,APAC Division,Private Individual,Birchgate Capital LLC,Managed,Northvale Hotel Group,
+LIMLU,Lumen Lima,Lumen Hotels,Open,Lifestyle,Urban,724,Peru,Lifestyle Division,REIT,Harrow Property Trust,Franchised,Sableridge Hotel Partners,Jordan Abernathy
+SANHO,Vale House Santiago,Vale House,Open,Select Service,Resort,213,Chile,Americas Division,Private Company,Ellison Hotel Holdings,Managed,Northvale Hotel Group,Mei Castillo
+CARHO,Vale House Cartagena,Vale House,Open,Select Service,Resort,219,Colombia,Americas Division,Institutional Fund,Pemberly Development LLC,Franchised,Brightwater Operating Group,Priya Ivanova
+RIOHO,Vale House Rio de Janeiro,Vale House,Open,Select Service,Business,125,Brazil,Americas Division,Private Individual,Castellan Property Trust,Franchised,Larkspur Management Ltd.,Chris Okafor
+GUANO,Northvale Guanacaste,Northvale Hotels,Open,Full Service,Urban,326,Costa Rica,Americas Division,Public Company,Birchgate Property Trust,Managed,Northvale Hotel Group,Aisha Okafor
+SAOLU,Lumen Sao Paulo,Lumen Hotels,Pipeline,Lifestyle,Business,527,Brazil,Lifestyle Division,Private Individual,Pemberly Real Estate Partners,Franchised,Corvel Hospitality,Jordan Lindqvist
+CAPGR,Northvale Grand Cape Town,Northvale Grand,Open,Full Service,Urban,704,South Africa,EMEA Division,Private Company,Castellan Hotel Holdings,Managed,Northvale Hotel Group,
+ORLNO,Northvale Orlando Riverfront,Northvale Hotels,Open,Full Service,Urban,595,United States,Americas Division,REIT,Lowell Development LLC,Franchised,Corvel Hospitality,Mei Castillo
+MONHO,Vale House Montreal,Vale House,Open,Select Service,Business,146,Canada,Americas Division,Private Company,Verity Capital LLC,Franchised,Larkspur Management Ltd.,Priya Ivanova
+AUCLU,Lumen Auckland,Lumen Hotels,Open,Lifestyle,Business,345,New Zealand,Lifestyle Division,Public Company,Ellison Hotel Holdings,Managed,Northvale Hotel Group,Laura Nakamura
+RIEJA,Vale Place Rio de Janeiro Waterfront,Vale Place,Open,Select Service,Resort,138,Brazil,Americas Division,Institutional Fund,Lowell Hotel Holdings,Managed,Northvale Hotel Group,
+JAKNO,Northvale Jakarta Convention Center,Northvale Hotels,Open,Full Service,Urban,415,Indonesia,APAC Division,Public Company,Pemberly Development LLC,Franchised,Sableridge Hotel Partners,Jordan Lindqvist
+TOKCL,Northvale Vacation Club Tokyo,Northvale Vacation Club,Open,Timeshare,Business,101,Japan,APAC Division,Private Company,Meadowbank Development LLC,Franchised,Ninefold Hotel Services,
+RIELG,Vale Place Rio de Janeiro Riverfront,Vale Place,Pipeline,Select Service,Resort,172,Brazil,Americas Division,REIT,Ellison Real Estate Partners,Franchised,Tamsin Lodging Co.,Mei Castillo
+GUAKE,Kestrel Reserve Guanacaste,Kestrel Reserve,Open,Luxury,Business,103,Costa Rica,Americas Division,Public Company,Meadowbank Hotel Holdings,Managed,Northvale Hotel Group,Mei Castillo
+TULPL,Vale Place Tulum Midtown,Vale Place,Open,Select Service,Urban,127,Mexico,Americas Division,Private Company,Sterling Vale Development LLC,Franchised,Sableridge Hotel Partners,
+MANHO,Vale House Manchester,Vale House,Open,Select Service,Urban,111,United Kingdom,EMEA Division,Private Company,Ellison Hotel Holdings,Franchised,Corvel Hospitality,
+CHILU,Lumen Chicago,Lumen Hotels,Open,Lifestyle,Business,450,United States,Lifestyle Division,Private Company,Kingsmere Capital LLC,Franchised,Quillfield Hotel Management,Aisha Okafor
+MOFQL,Vale House Montreal Harbor,Vale House,Open,Select Service,Urban,101,Canada,Americas Division,Institutional Fund,Pemberly Capital LLC,Franchised,Sableridge Hotel Partners,Chris Okafor
+LIMZC,Vale House Lima Downtown,Vale House,Open,Select Service,Resort,163,Peru,Americas Division,Private Individual,Kingsmere Property Trust,Managed,Northvale Hotel Group,
+GUACL,Northvale Vacation Club Guanacaste,Northvale Vacation Club,Open,Timeshare,Business,79,Costa Rica,Americas Division,Institutional Fund,Kingsmere Real Estate Partners,Franchised,Ninefold Hotel Services,Tomas Okafor
+MEDGR,Northvale Grand Medellin,Northvale Grand,Open,Full Service,Resort,466,Colombia,Americas Division,Private Company,Ashgrove Hotel Holdings,Franchised,Larkspur Management Ltd.,
+BOIAR,The Cordage Boise,The Archive Collection,Open,Lifestyle,Urban,606,United States,Lifestyle Division,Public Company,Redfern Real Estate Partners,Franchised,Quillfield Hotel Management,
+CAIGR,Northvale Grand Cairo,Northvale Grand,Open,Full Service,Business,476,Egypt,EMEA Division,Public Company,Ashgrove Capital LLC,Franchised,Ninefold Hotel Services,Jordan Castillo
+MONPL,Vale Place Montego Bay,Vale Place,Open,Select Service,Urban,128,Jamaica,Americas Division,REIT,Verity Property Trust,Managed,Northvale Hotel Group,Tomas Okafor
+MARHO,Vale House Marrakech,Vale House,Closed,Select Service,Resort,142,Morocco,EMEA Division,Private Company,Ellison Development LLC,Franchised,Ninefold Hotel Services,Jordan Abernathy
+DANNO,Northvale Da Nang,Northvale Hotels,Open,Full Service,Business,531,Vietnam,APAC Division,Public Company,Wexford Real Estate Partners,Managed,Northvale Hotel Group,
+RIOCL,Northvale Vacation Club Rio de Janeiro,Northvale Vacation Club,Open,Timeshare,Business,102,Brazil,Americas Division,REIT,Meadowbank Hotel Holdings,Managed,Northvale Hotel Group,Jordan Abernathy
+PUNPL,Vale Place Punta Cana Central,Vale Place,Open,Select Service,Urban,113,Dominican Republic,Americas Division,Public Company,Thornbury Real Estate Partners,Managed,Northvale Hotel Group,Jordan Moreau
+MONNO,Northvale Montego Bay Central,Northvale Hotels,Open,Full Service,Business,690,Jamaica,Americas Division,Public Company,Ashgrove Hotel Holdings,Managed,Northvale Hotel Group,Priya Ivanova
+SYDPL,Vale Place Sydney Harbor,Vale Place,Open,Select Service,Business,169,Australia,APAC Division,Private Company,Birchgate Capital LLC,Franchised,Ninefold Hotel Services,
+LIMTI,Tidewater Resorts Lima Resort,Tidewater Resorts,Open,All Inclusive,Resort,479,Peru,Americas Division,REIT,Castellan Hotel Holdings,Managed,Northvale Hotel Group,Priya Ivanova
+SANCL,Northvale Vacation Club Santiago,Northvale Vacation Club,Open,Timeshare,Urban,119,Chile,Americas Division,Institutional Fund,Ellison Development LLC,Managed,Northvale Hotel Group,
+DUBCL,Northvale Vacation Club Dublin,Northvale Vacation Club,Open,Timeshare,Business,136,Ireland,EMEA Division,Institutional Fund,Pemberly Property Trust,Franchised,Brightwater Operating Group,Jordan Moreau
+GENSO,Solace Retreats Geneva,Solace Retreats,Open,Wellness,Resort,71,Switzerland,EMEA Division,Private Company,Sterling Vale Development LLC,Managed,Northvale Hotel Group,Mei Castillo
+MONGR,Northvale Grand Montego Bay,Northvale Grand,Open,Full Service,Urban,412,Jamaica,Americas Division,Private Individual,Ellison Development LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+SANLU,Lumen Santa Fe,Lumen Hotels,Open,Lifestyle,Urban,687,United States,Lifestyle Division,REIT,Wexford Hotel Holdings,Franchised,Tamsin Lodging Co.,Laura Nakamura
+SANTI,Tidewater Resorts San Diego Resort,Tidewater Resorts,Open,All Inclusive,Resort,555,United States,Americas Division,REIT,Sterling Vale Capital LLC,Franchised,Aldermoor Hospitality,Priya Abernathy
+KUATI,Tidewater Resorts Kuala Lumpur Resort,Tidewater Resorts,Closed,All Inclusive,Resort,347,Malaysia,APAC Division,REIT,Kingsmere Capital LLC,Franchised,Brightwater Operating Group,Ryan Ivanova
+DANTI,Tidewater Resorts Da Nang Resort,Tidewater Resorts,Open,All Inclusive,Resort,429,Vietnam,APAC Division,Private Individual,Castellan Investments Ltd.,Managed,Northvale Hotel Group,
+GUMJX,Northvale Guanacaste North,Northvale Hotels,Open,Full Service,Business,211,Costa Rica,Americas Division,Private Individual,Thornbury Development LLC,Managed,Northvale Hotel Group,
+TORGR,Northvale Grand Toronto,Northvale Grand,Open,Full Service,Resort,527,Canada,Americas Division,Public Company,Verity Real Estate Partners,Managed,Northvale Hotel Group,
+PUTXQ,Vale Place Punta Cana North,Vale Place,Open,Select Service,Urban,117,Dominican Republic,Americas Division,Private Individual,Kingsmere Property Trust,Franchised,Brightwater Operating Group,
+SAHRD,Vale House Santiago North,Vale House,Open,Select Service,Business,182,Chile,Americas Division,Institutional Fund,Meadowbank Investments Ltd.,Managed,Northvale Hotel Group,Jordan Abernathy
+ANCNO,Northvale Anchorage,Northvale Hotels,Pipeline,Full Service,Business,253,United States,Americas Division,Public Company,Meadowbank Hotel Holdings,Managed,Northvale Hotel Group,Priya Abernathy
+DELCL,Northvale Vacation Club Delhi,Northvale Vacation Club,Open,Timeshare,Urban,197,India,APAC Division,Private Company,Wexford Real Estate Partners,Managed,Northvale Hotel Group,Laura Nakamura
+AMSLU,Lumen Amsterdam,Lumen Hotels,Open,Lifestyle,Urban,468,Netherlands,Lifestyle Division,Institutional Fund,Pemberly Real Estate Partners,Managed,Northvale Hotel Group,Laura Nakamura
+SAOCL,Northvale Vacation Club Sao Paulo,Northvale Vacation Club,Pipeline,Timeshare,Business,61,Brazil,Americas Division,Private Individual,Thornbury Property Trust,Franchised,Corvel Hospitality,Laura Nakamura
+LIMNO,Northvale Lima,Northvale Hotels,Open,Full Service,Business,797,Peru,Americas Division,Public Company,Harrow Capital LLC,Managed,Northvale Hotel Group,Grace Fairbanks
+PUZAT,Vale Place Punta Cana Harbor,Vale Place,Open,Select Service,Urban,194,Dominican Republic,Americas Division,Public Company,Oriel Investments Ltd.,Franchised,Brightwater Operating Group,Mei Castillo
+CALHO,Vale House Calgary Convention Center,Vale House,Open,Select Service,Resort,113,Canada,Americas Division,REIT,Redfern Development LLC,Franchised,Brightwater Operating Group,Laura Nakamura
+HONPL,Vale Place Honolulu,Vale Place,Open,Select Service,Business,183,United States,Americas Division,REIT,Redfern Development LLC,Franchised,Ninefold Hotel Services,Mei Castillo
+TORAR,The Foundry Toronto,The Archive Collection,Open,Lifestyle,Business,346,Canada,Lifestyle Division,REIT,Harrow Capital LLC,Managed,Northvale Hotel Group,Chris Okafor
+TULNO,Northvale Tulum Airport,Northvale Hotels,Open,Full Service,Urban,488,Mexico,Americas Division,REIT,Ellison Property Trust,Managed,Northvale Hotel Group,Jordan Moreau
+QUEPL,Vale Place Queenstown,Vale Place,Open,Select Service,Resort,145,New Zealand,APAC Division,Private Company,Redfern Investments Ltd.,Managed,Northvale Hotel Group,Jordan Lindqvist
+SAONO,Northvale Sao Paulo,Northvale Hotels,Open,Full Service,Urban,300,Brazil,Americas Division,Private Individual,Kingsmere Investments Ltd.,Franchised,Brightwater Operating Group,Laura Nakamura
+PUAQM,Vale Place Punta Cana Riverfront,Vale Place,Open,Select Service,Business,135,Dominican Republic,Americas Division,Private Individual,Redfern Capital LLC,Managed,Northvale Hotel Group,Jordan Lindqvist
+SANAR,The Printworks Santiago,The Archive Collection,Open,Lifestyle,Urban,703,Chile,Lifestyle Division,Private Company,Ellison Investments Ltd.,Managed,Northvale Hotel Group,
+LONPL,Vale Place London,Vale Place,Open,Select Service,Urban,123,United Kingdom,EMEA Division,Private Individual,Wexford Hotel Holdings,Franchised,Tamsin Lodging Co.,Jordan Lindqvist
+PULGZ,Vale Place Punta Cana,Vale Place,Open,Select Service,Resort,219,Dominican Republic,Americas Division,REIT,Calder Real Estate Partners,Franchised,Aldermoor Hospitality,Ryan Ivanova
+MANNO,Northvale Manila,Northvale Hotels,Open,Full Service,Business,723,Philippines,APAC Division,Private Company,Ashgrove Property Trust,Managed,Northvale Hotel Group,Jordan Moreau
+SINPL,Vale Place Singapore,Vale Place,Open,Select Service,Urban,127,Singapore,APAC Division,Public Company,Calder Capital LLC,Franchised,Larkspur Management Ltd.,Jordan Moreau
+MEDHO,Vale House Medellin Uptown,Vale House,Open,Select Service,Business,98,Colombia,Americas Division,REIT,Birchgate Real Estate Partners,Franchised,Ninefold Hotel Services,Jordan Lindqvist
+SAOTI,Tidewater Resorts Sao Paulo Resort,Tidewater Resorts,Open,All Inclusive,Resort,405,Brazil,Americas Division,Private Company,Ashgrove Investments Ltd.,Managed,Northvale Hotel Group,Jordan Moreau
+PUNKE,Kestrel Reserve Punta Cana,Kestrel Reserve,Open,Luxury,Business,142,Dominican Republic,Americas Division,REIT,Kingsmere Capital LLC,Managed,Northvale Hotel Group,Priya Moreau
+CAITI,Tidewater Resorts Cairo Resort,Tidewater Resorts,Open,All Inclusive,Resort,554,Egypt,EMEA Division,Institutional Fund,Kingsmere Investments Ltd.,Franchised,Larkspur Management Ltd.,Mei Castillo
+TORNO,Northvale Toronto,Northvale Hotels,Open,Full Service,Business,384,Canada,Americas Division,Institutional Fund,Sterling Vale Investments Ltd.,Franchised,Sableridge Hotel Partners,Aisha Okafor
+SANKE,Kestrel Reserve Santiago,Kestrel Reserve,Open,Luxury,Business,199,Chile,Americas Division,Private Company,Kingsmere Hotel Holdings,Managed,Northvale Hotel Group,Aisha Okafor
+MALNO,Northvale Mallorca,Northvale Hotels,Pipeline,Full Service,Urban,233,Spain,EMEA Division,Public Company,Sterling Vale Development LLC,Franchised,Brightwater Operating Group,Tomas Okafor
+LOSGR,Northvale Grand Los Cabos,Northvale Grand,Open,Full Service,Urban,343,Mexico,Americas Division,Public Company,Pemberly Property Trust,Franchised,Corvel Hospitality,Ryan Ivanova
+ISTTI,Tidewater Resorts Istanbul Resort,Tidewater Resorts,Open,All Inclusive,Resort,473,Turkey,EMEA Division,REIT,Wexford Hotel Holdings,Franchised,Ninefold Hotel Services,Aisha Okafor
+CHIPL,Vale Place Chicago Uptown,Vale Place,Open,Select Service,Urban,97,United States,Americas Division,Private Company,Ellison Hotel Holdings,Franchised,Aldermoor Hospitality,Grace Fairbanks
+BANGR,Northvale Grand Bangkok,Northvale Grand,Open,Full Service,Business,573,Thailand,APAC Division,Private Company,Thornbury Hotel Holdings,Franchised,Tamsin Lodging Co.,Mei Castillo
+MANSO,Solace Retreats Manila,Solace Retreats,Open,Wellness,Urban,101,Philippines,APAC Division,Private Company,Birchgate Capital LLC,Managed,Northvale Hotel Group,
+PUGHS,Vale Place Punta Cana Midtown,Vale Place,Open,Select Service,Resort,218,Dominican Republic,Americas Division,Private Individual,Wexford Investments Ltd.,Franchised,Aldermoor Hospitality,
+MOMBO,Northvale Grand Montreal,Northvale Grand,Open,Full Service,Resort,474,Canada,Americas Division,REIT,Sterling Vale Capital LLC,Franchised,Tamsin Lodging Co.,Jordan Abernathy
+GOAPL,Vale Place Goa,Vale Place,Open,Select Service,Resort,130,India,APAC Division,Public Company,Pemberly Development LLC,Franchised,Tamsin Lodging Co.,Aisha Okafor
+BALHO,Vale House Baltimore Old Town,Vale House,Open,Select Service,Urban,187,United States,Americas Division,REIT,Kingsmere Hotel Holdings,Franchised,Aldermoor Hospitality,Jordan Lindqvist
+HARGG,Vale Place Hanoi Beach,Vale Place,Open,Select Service,Urban,219,Vietnam,APAC Division,REIT,Verity Real Estate Partners,Managed,Northvale Hotel Group,
+MILTI,Tidewater Resorts Milan Resort,Tidewater Resorts,Open,All Inclusive,Resort,332,Italy,EMEA Division,REIT,Calder Hotel Holdings,Franchised,Brightwater Operating Group,
+VANHO,Vale House Vancouver Riverfront,Vale House,Open,Select Service,Business,160,Canada,Americas Division,REIT,Castellan Development LLC,Franchised,Quillfield Hotel Management,Ryan Ivanova
+MONAR,Hotel Marisol Montego Bay,The Archive Collection,Open,Lifestyle,Business,202,Jamaica,Lifestyle Division,REIT,Verity Investments Ltd.,Managed,Northvale Hotel Group,
+ZURTI,Tidewater Resorts Zurich Resort,Tidewater Resorts,Open,All Inclusive,Resort,383,Switzerland,EMEA Division,Private Company,Sterling Vale Hotel Holdings,Franchised,Ninefold Hotel Services,
+MOWNR,Vale Place Montego Bay Uptown,Vale Place,Open,Select Service,Urban,92,Jamaica,Americas Division,Private Individual,Lowell Capital LLC,Franchised,Aldermoor Hospitality,Tomas Okafor
+AMSNO,Northvale Amsterdam Uptown,Northvale Hotels,Open,Full Service,Business,704,Netherlands,EMEA Division,Private Company,Ashgrove Investments Ltd.,Managed,Northvale Hotel Group,Grace Fairbanks
+GUASO,Solace Retreats Guadalajara,Solace Retreats,Open,Wellness,Business,118,Mexico,Americas Division,Public Company,Ellison Real Estate Partners,Managed,Northvale Hotel Group,Ryan Ivanova
+GUAPL,Vale Place Guanacaste,Vale Place,Open,Select Service,Business,208,Costa Rica,Americas Division,REIT,Oriel Hotel Holdings,Franchised,Quillfield Hotel Management,
+CARPL,Vale Place Cartagena,Vale Place,Open,Select Service,Business,209,Colombia,Americas Division,Public Company,Birchgate Property Trust,Managed,Northvale Hotel Group,Jordan Castillo
+SINAR,Palazzo Fenn Singapore,The Archive Collection,Open,Lifestyle,Business,676,Singapore,Lifestyle Division,Private Individual,Meadowbank Development LLC,Managed,Northvale Hotel Group,
+MOXUD,Northvale Montego Bay Uptown,Northvale Hotels,Open,Full Service,Business,853,Jamaica,Americas Division,Private Company,Pemberly Capital LLC,Franchised,Brightwater Operating Group,Aisha Okafor
+MADTI,Tidewater Resorts Madrid Resort,Tidewater Resorts,Open,All Inclusive,Resort,492,Spain,EMEA Division,Private Individual,Ellison Property Trust,Managed,Northvale Hotel Group,Priya Moreau
+TUTEI,Vale Place Tulum,Vale Place,Open,Select Service,Urban,209,Mexico,Americas Division,Public Company,Sterling Vale Property Trust,Franchised,Quillfield Hotel Management,Jordan Lindqvist
+LIMPL,Vale Place Lima,Vale Place,Open,Select Service,Business,220,Peru,Americas Division,Private Individual,Lowell Hotel Holdings,Franchised,Aldermoor Hospitality,Ryan Ivanova
+SIOVH,Vale Place Singapore Old Town,Vale Place,Open,Select Service,Resort,159,Singapore,APAC Division,Institutional Fund,Ashgrove Hotel Holdings,Franchised,Larkspur Management Ltd.,
+NICPL,Vale Place Nice,Vale Place,Open,Select Service,Business,192,France,EMEA Division,Public Company,Castellan Capital LLC,Franchised,Aldermoor Hospitality,Priya Abernathy
+DUBPL,Vale Place Dublin,Vale Place,Open,Select Service,Resort,111,Ireland,EMEA Division,REIT,Ellison Development LLC,Franchised,Larkspur Management Ltd.,Priya Moreau
+KANNO,Northvale Kansas City,Northvale Hotels,Open,Full Service,Urban,322,United States,Americas Division,Public Company,Verity Real Estate Partners,Franchised,Sableridge Hotel Partners,Jordan Lindqvist
+NICGR,Northvale Grand Nice,Northvale Grand,Open,Full Service,Business,611,France,EMEA Division,Institutional Fund,Redfern Property Trust,Managed,Northvale Hotel Group,Chris Okafor
+VENLU,Lumen Venice,Lumen Hotels,Open,Lifestyle,Business,839,Italy,Lifestyle Division,Private Individual,Pemberly Hotel Holdings,Franchised,Aldermoor Hospitality,Mei Castillo
+VANPL,Vale Place Vancouver,Vale Place,Open,Select Service,Resort,152,Canada,Americas Division,Private Individual,Oriel Capital LLC,Managed,Northvale Hotel Group,Grace Fairbanks
+KUAPL,Vale Place Kuala Lumpur Central,Vale Place,Open,Select Service,Urban,103,Malaysia,APAC Division,Private Company,Harrow Capital LLC,Franchised,Aldermoor Hospitality,
+CAIPL,Vale Place Cairo Uptown,Vale Place,Open,Select Service,Business,105,Egypt,EMEA Division,Public Company,Ashgrove Investments Ltd.,Managed,Northvale Hotel Group,
+MOYEU,The Ledger House Montreal,The Archive Collection,Open,Lifestyle,Business,458,Canada,Lifestyle Division,Institutional Fund,Calder Real Estate Partners,Managed,Northvale Hotel Group,Jordan Moreau
+DOHCL,Northvale Vacation Club Doha,Northvale Vacation Club,Open,Timeshare,Urban,209,Qatar,EMEA Division,Private Individual,Thornbury Property Trust,Franchised,Ninefold Hotel Services,Jordan Moreau
+TULKE,Kestrel Reserve Tulum,Kestrel Reserve,Closed,Luxury,Business,153,Mexico,Americas Division,REIT,Birchgate Real Estate Partners,Managed,Northvale Hotel Group,
+SAOUF,Vale House Santiago Central,Vale House,Closed,Select Service,Urban,169,Chile,Americas Division,Institutional Fund,Ellison Development LLC,Franchised,Ninefold Hotel Services,Tomas Okafor
+EDITI,Tidewater Resorts Edinburgh Resort,Tidewater Resorts,Open,All Inclusive,Resort,645,United Kingdom,EMEA Division,Private Company,Thornbury Property Trust,Managed,Northvale Hotel Group,Laura Nakamura
+SAEFE,Tidewater Resorts Santiago Resort,Tidewater Resorts,Open,All Inclusive,Resort,456,Chile,Americas Division,Institutional Fund,Birchgate Hotel Holdings,Franchised,Aldermoor Hospitality,
+PHUPL,Vale Place Phuket,Vale Place,Open,Select Service,Urban,161,Thailand,APAC Division,Institutional Fund,Harrow Capital LLC,Managed,Northvale Hotel Group,Jordan Castillo
+MARNO,Northvale Marrakech,Northvale Hotels,Open,Full Service,Urban,440,Morocco,EMEA Division,Private Company,Calder Hotel Holdings,Franchised,Sableridge Hotel Partners,Mei Castillo
+HANSO,Solace Retreats Hangzhou,Solace Retreats,Open,Wellness,Business,51,China,APAC Division,Public Company,Calder Investments Ltd.,Managed,Northvale Hotel Group,Aisha Okafor
+CAISO,Solace Retreats Cairo,Solace Retreats,Open,Wellness,Urban,87,Egypt,EMEA Division,REIT,Thornbury Hotel Holdings,Managed,Northvale Hotel Group,Laura Nakamura
+CARSO,Solace Retreats Cartagena,Solace Retreats,Open,Wellness,Business,73,Colombia,Americas Division,Institutional Fund,Lowell Capital LLC,Managed,Northvale Hotel Group,Jordan Lindqvist
+MALQM,Vale House Manila,Vale House,Open,Select Service,Urban,213,Philippines,APAC Division,Private Individual,Oriel Property Trust,Franchised,Tamsin Lodging Co.,
+SAOHO,Vale House Sao Paulo,Vale House,Open,Select Service,Urban,204,Brazil,Americas Division,Private Company,Redfern Capital LLC,Franchised,Quillfield Hotel Management,Jordan Lindqvist
+MONKE,Kestrel Reserve Montreal,Kestrel Reserve,Open,Luxury,Urban,94,Canada,Americas Division,REIT,Kingsmere Investments Ltd.,Managed,Northvale Hotel Group,
+MOGAO,The Signal Montego Bay,The Archive Collection,Open,Lifestyle,Urban,682,Jamaica,Lifestyle Division,Private Company,Calder Property Trust,Managed,Northvale Hotel Group,
+KYONO,Northvale Kyoto,Northvale Hotels,Open,Full Service,Urban,553,Japan,APAC Division,Private Individual,Verity Hotel Holdings,Franchised,Tamsin Lodging Co.,Laura Nakamura
+GUALU,Lumen Guanacaste,Lumen Hotels,Open,Lifestyle,Resort,529,Costa Rica,Lifestyle Division,Institutional Fund,Birchgate Property Trust,Franchised,Aldermoor Hospitality,
+PUNSO,Solace Retreats Punta Cana,Solace Retreats,Open,Wellness,Business,67,Dominican Republic,Americas Division,Public Company,Oriel Hotel Holdings,Managed,Northvale Hotel Group,
+MEXPL,Vale Place Mexico City,Vale Place,Open,Select Service,Business,160,Mexico,Americas Division,REIT,Pemberly Hotel Holdings,Franchised,Tamsin Lodging Co.,Tomas Okafor
+GUATI,Tidewater Resorts Guanacaste Resort,Tidewater Resorts,Open,All Inclusive,Resort,268,Costa Rica,Americas Division,REIT,Ashgrove Investments Ltd.,Managed,Northvale Hotel Group,Mei Castillo
+SEOLU,Lumen Seoul,Lumen Hotels,Open,Lifestyle,Urban,570,South Korea,Lifestyle Division,Institutional Fund,Ellison Real Estate Partners,Managed,Northvale Hotel Group,
+MINPL,Vale Place Minneapolis,Vale Place,Open,Select Service,Business,169,United States,Americas Division,Public Company,Harrow Capital LLC,Managed,Northvale Hotel Group,Grace Fairbanks
+LILJC,Vale House Lima North,Vale House,Open,Select Service,Business,216,Peru,Americas Division,Institutional Fund,Verity Capital LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+CAINO,Northvale Cairo,Northvale Hotels,Open,Full Service,Business,791,Egypt,EMEA Division,Institutional Fund,Ellison Property Trust,Managed,Northvale Hotel Group,
+DOHTI,Tidewater Resorts Doha Resort,Tidewater Resorts,Open,All Inclusive,Resort,598,Qatar,EMEA Division,Public Company,Thornbury Property Trust,Franchised,Aldermoor Hospitality,Priya Ivanova
+SAZUY,Northvale Sao Paulo Convention Center,Northvale Hotels,Open,Full Service,Business,215,Brazil,Americas Division,Institutional Fund,Verity Development LLC,Franchised,Brightwater Operating Group,Jordan Abernathy
+ATHTI,Tidewater Resorts Athens Resort,Tidewater Resorts,Open,All Inclusive,Resort,397,Greece,EMEA Division,Private Company,Wexford Real Estate Partners,Managed,Northvale Hotel Group,Aisha Okafor
+BUSGR,Northvale Grand Busan,Northvale Grand,Open,Full Service,Urban,630,South Korea,APAC Division,Private Company,Birchgate Real Estate Partners,Managed,Northvale Hotel Group,
+OTTPL,Vale Place Ottawa Beach,Vale Place,Open,Select Service,Business,141,Canada,Americas Division,Institutional Fund,Ashgrove Property Trust,Franchised,Brightwater Operating Group,Priya Abernathy
+PUNHO,Vale House Punta Cana Central,Vale House,Open,Select Service,Business,180,Dominican Republic,Americas Division,REIT,Thornbury Real Estate Partners,Franchised,Corvel Hospitality,Laura Nakamura
+CHITI,Tidewater Resorts Chicago Resort,Tidewater Resorts,Open,All Inclusive,Resort,475,United States,Americas Division,Private Company,Redfern Property Trust,Managed,Northvale Hotel Group,Jordan Abernathy
+GUDFP,Northvale Guadalajara Midtown,Northvale Hotels,Open,Full Service,Business,666,Mexico,Americas Division,Public Company,Birchgate Property Trust,Managed,Northvale Hotel Group,
+MALGR,Northvale Grand Malaga,Northvale Grand,Pipeline,Full Service,Urban,607,Spain,EMEA Division,Public Company,Castellan Property Trust,Managed,Northvale Hotel Group,
+MEDPL,Vale Place Medellin Convention Center,Vale Place,Open,Select Service,Business,189,Colombia,Americas Division,Private Individual,Ashgrove Capital LLC,Franchised,Corvel Hospitality,Mei Castillo
+CALPL,Vale Place Calgary Convention Center,Vale Place,Closed,Select Service,Urban,138,Canada,Americas Division,Private Individual,Lowell Property Trust,Franchised,Larkspur Management Ltd.,
+DUBTI,Tidewater Resorts Dublin Resort,Tidewater Resorts,Open,All Inclusive,Resort,672,Ireland,EMEA Division,Public Company,Oriel Capital LLC,Managed,Northvale Hotel Group,Laura Nakamura
+BUSPL,Vale Place Busan,Vale Place,Open,Select Service,Urban,219,South Korea,APAC Division,REIT,Sterling Vale Hotel Holdings,Franchised,Aldermoor Hospitality,Jordan Moreau
+LYONO,Northvale Lyon Downtown,Northvale Hotels,Open,Full Service,Business,491,France,EMEA Division,Private Individual,Castellan Investments Ltd.,Managed,Northvale Hotel Group,Mei Castillo
+MEDNO,Northvale Medellin,Northvale Hotels,Open,Full Service,Urban,768,Colombia,Americas Division,REIT,Sterling Vale Investments Ltd.,Franchised,Quillfield Hotel Management,Priya Ivanova
+TORHO,Vale House Toronto Central,Vale House,Open,Select Service,Business,105,Canada,Americas Division,Private Company,Calder Hotel Holdings,Franchised,Tamsin Lodging Co.,Priya Moreau
+MUNGR,Northvale Grand Munich,Northvale Grand,Open,Full Service,Business,235,Germany,EMEA Division,REIT,Redfern Investments Ltd.,Managed,Northvale Hotel Group,
+SAOGR,Northvale Grand Sao Paulo,Northvale Grand,Open,Full Service,Resort,357,Brazil,Americas Division,Public Company,Harrow Property Trust,Managed,Northvale Hotel Group,Jordan Moreau
+BEINO,Northvale Beijing,Northvale Hotels,Open,Full Service,Business,496,China,APAC Division,Private Individual,Lowell Capital LLC,Franchised,Tamsin Lodging Co.,Priya Moreau
+MEBDV,Vale Place Medellin Waterfront,Vale Place,Open,Select Service,Urban,209,Colombia,Americas Division,Public Company,Ashgrove Hotel Holdings,Franchised,Ninefold Hotel Services,Chris Okafor
+MELGR,Northvale Grand Melbourne,Northvale Grand,Open,Full Service,Urban,748,Australia,APAC Division,Private Individual,Kingsmere Hotel Holdings,Managed,Northvale Hotel Group,Jordan Lindqvist
+LINFL,Northvale Lima Beach,Northvale Hotels,Open,Full Service,Urban,790,Peru,Americas Division,Private Individual,Ashgrove Investments Ltd.,Managed,Northvale Hotel Group,Jordan Moreau
+OTTTA,Vale Place Ottawa Old Town,Vale Place,Open,Select Service,Business,189,Canada,Americas Division,Private Company,Oriel Hotel Holdings,Franchised,Corvel Hospitality,Aisha Okafor
+BERNO,Northvale Berlin North,Northvale Hotels,Open,Full Service,Business,823,Germany,EMEA Division,REIT,Verity Hotel Holdings,Managed,Northvale Hotel Group,Chris Okafor
+MIAPL,Vale Place Miami Old Town,Vale Place,Open,Select Service,Resort,169,United States,Americas Division,REIT,Thornbury Investments Ltd.,Managed,Northvale Hotel Group,Priya Ivanova
+DUBNO,Northvale Dubai,Northvale Hotels,Open,Full Service,Urban,877,United Arab Emirates,EMEA Division,Private Company,Ellison Real Estate Partners,Managed,Northvale Hotel Group,Jordan Lindqvist
+MOJYL,Vale House Montego Bay Airport,Vale House,Open,Select Service,Business,220,Jamaica,Americas Division,Private Company,Pemberly Property Trust,Managed,Northvale Hotel Group,Jordan Castillo
+BUSSO,Solace Retreats Busan,Solace Retreats,Open,Wellness,Urban,70,South Korea,APAC Division,Institutional Fund,Verity Hotel Holdings,Managed,Northvale Hotel Group,
+VANNO,Northvale Vancouver,Northvale Hotels,Open,Full Service,Business,866,Canada,Americas Division,Private Individual,Thornbury Development LLC,Managed,Northvale Hotel Group,Priya Ivanova
+DOHNO,Northvale Doha Riverfront,Northvale Hotels,Open,Full Service,Business,595,Qatar,EMEA Division,REIT,Castellan Development LLC,Franchised,Brightwater Operating Group,Priya Abernathy
+BENKE,Kestrel Reserve Bengaluru,Kestrel Reserve,Open,Luxury,Resort,172,India,APAC Division,Public Company,Oriel Investments Ltd.,Managed,Northvale Hotel Group,Mei Castillo
+DANAR,Hotel Juniper Da Nang,The Archive Collection,Open,Lifestyle,Resort,450,Vietnam,Lifestyle Division,Private Company,Lowell Property Trust,Franchised,Larkspur Management Ltd.,Priya Ivanova
+MANPL,Vale Place Manila,Vale Place,Open,Select Service,Business,191,Philippines,APAC Division,REIT,Wexford Real Estate Partners,Managed,Northvale Hotel Group,Chris Okafor
+MAVTI,Vale Place Manila North,Vale Place,Open,Select Service,Urban,148,Philippines,APAC Division,Public Company,Birchgate Investments Ltd.,Managed,Northvale Hotel Group,
+AUSTI,Tidewater Resorts Austin Resort,Tidewater Resorts,Open,All Inclusive,Resort,275,United States,Americas Division,REIT,Lowell Property Trust,Managed,Northvale Hotel Group,Priya Moreau
+BERCL,Northvale Vacation Club Berlin,Northvale Vacation Club,Open,Timeshare,Business,223,Germany,EMEA Division,Private Individual,Meadowbank Capital LLC,Franchised,Larkspur Management Ltd.,Tomas Okafor
+LIRNK,Vale House Lima Airport,Vale House,Open,Select Service,Urban,132,Peru,Americas Division,Private Individual,Wexford Capital LLC,Managed,Northvale Hotel Group,Jordan Moreau
+ISTPL,Vale Place Istanbul Central,Vale Place,Pipeline,Select Service,Urban,192,Turkey,EMEA Division,Institutional Fund,Meadowbank Capital LLC,Franchised,Corvel Hospitality,Laura Nakamura
+SEONO,Northvale Seoul,Northvale Hotels,Open,Full Service,Business,330,South Korea,APAC Division,Institutional Fund,Ashgrove Investments Ltd.,Managed,Northvale Hotel Group,Ryan Ivanova
+SAGFZ,Lumen Santiago,Lumen Hotels,Open,Lifestyle,Urban,439,Chile,Lifestyle Division,Private Company,Pemberly Investments Ltd.,Managed,Northvale Hotel Group,Grace Fairbanks
+ZURAR,The Linden Zurich,The Archive Collection,Closed,Lifestyle,Resort,262,Switzerland,Lifestyle Division,Private Individual,Meadowbank Property Trust,Franchised,Sableridge Hotel Partners,
+MADPL,Vale Place Madrid Waterfront,Vale Place,Open,Select Service,Urban,211,Spain,EMEA Division,Private Company,Birchgate Real Estate Partners,Franchised,Aldermoor Hospitality,Mei Castillo
+GUAAR,The Tannery Guadalajara,The Archive Collection,Open,Lifestyle,Urban,756,Mexico,Lifestyle Division,Private Company,Ashgrove Hotel Holdings,Franchised,Corvel Hospitality,
+EDIKE,Kestrel Reserve Edinburgh,Kestrel Reserve,Open,Luxury,Urban,211,United Kingdom,EMEA Division,Institutional Fund,Ashgrove Development LLC,Managed,Northvale Hotel Group,Jordan Castillo
+MECYR,Vale Place Medellin,Vale Place,Open,Select Service,Business,95,Colombia,Americas Division,Institutional Fund,Kingsmere Capital LLC,Managed,Northvale Hotel Group,
+GUDYW,Hotel Wren Guanacaste,The Archive Collection,Open,Lifestyle,Resort,436,Costa Rica,Lifestyle Division,Institutional Fund,Verity Property Trust,Franchised,Aldermoor Hospitality,Priya Moreau
+AUSAR,Maison Lyre Austin,The Archive Collection,Open,Lifestyle,Resort,581,United States,Lifestyle Division,Private Individual,Oriel Development LLC,Managed,Northvale Hotel Group,
+LOSPL,Vale Place Los Cabos,Vale Place,Open,Select Service,Urban,170,Mexico,Americas Division,Private Company,Calder Investments Ltd.,Managed,Northvale Hotel Group,Tomas Okafor
+LIMGR,Northvale Grand Lima,Northvale Grand,Open,Full Service,Urban,459,Peru,Americas Division,Private Individual,Verity Capital LLC,Franchised,Brightwater Operating Group,Jordan Moreau
+KUXCF,Vale Place Kuala Lumpur,Vale Place,Open,Select Service,Business,182,Malaysia,APAC Division,Public Company,Thornbury Hotel Holdings,Franchised,Quillfield Hotel Management,Jordan Abernathy
+RIOKE,Kestrel Reserve Rio de Janeiro,Kestrel Reserve,Open,Luxury,Business,165,Brazil,Americas Division,Private Company,Calder Development LLC,Managed,Northvale Hotel Group,Jordan Abernathy
+SAOAR,Casa Albera Sao Paulo,The Archive Collection,Open,Lifestyle,Urban,187,Brazil,Lifestyle Division,Private Individual,Redfern Property Trust,Franchised,Ninefold Hotel Services,Laura Nakamura
+FLOTI,Tidewater Resorts Florence Resort,Tidewater Resorts,Open,All Inclusive,Resort,287,Italy,EMEA Division,REIT,Meadowbank Investments Ltd.,Franchised,Sableridge Hotel Partners,Jordan Lindqvist
+MONCL,Northvale Vacation Club Montego Bay,Northvale Vacation Club,Open,Timeshare,Urban,130,Jamaica,Americas Division,Public Company,Harrow Hotel Holdings,Franchised,Brightwater Operating Group,Mei Castillo
+RIONO,Northvale Rio de Janeiro,Northvale Hotels,Open,Full Service,Business,312,Brazil,Americas Division,Institutional Fund,Ellison Capital LLC,Franchised,Quillfield Hotel Management,
+CANTI,Tidewater Resorts Cancun Resort,Tidewater Resorts,Open,All Inclusive,Resort,577,Mexico,Americas Division,Public Company,Harrow Hotel Holdings,Managed,Northvale Hotel Group,Jordan Castillo
+CAIHO,Vale House Cairo Convention Center,Vale House,Open,Select Service,Resort,175,Egypt,EMEA Division,Private Individual,Redfern Real Estate Partners,Franchised,Larkspur Management Ltd.,
+PUNGR,Northvale Grand Punta Cana,Northvale Grand,Open,Full Service,Urban,340,Dominican Republic,Americas Division,Private Company,Harrow Hotel Holdings,Managed,Northvale Hotel Group,Priya Ivanova
+PUPOR,Vale House Punta Cana Waterfront,Vale House,Open,Select Service,Resort,156,Dominican Republic,Americas Division,Private Individual,Ellison Development LLC,Franchised,Brightwater Operating Group,Priya Ivanova
+BENPL,Vale Place Bengaluru Beach,Vale Place,Open,Select Service,Urban,128,India,APAC Division,REIT,Redfern Capital LLC,Managed,Northvale Hotel Group,
+BANNO,Northvale Bangkok,Northvale Hotels,Open,Full Service,Urban,721,Thailand,APAC Division,Private Company,Ashgrove Development LLC,Franchised,Tamsin Lodging Co.,Jordan Castillo
+JEDPL,Vale Place Jeddah Midtown,Vale Place,Open,Select Service,Business,106,Saudi Arabia,EMEA Division,Private Individual,Ashgrove Capital LLC,Franchised,Tamsin Lodging Co.,Ryan Ivanova
+MOILH,Northvale Montego Bay Harbor,Northvale Hotels,Open,Full Service,Resort,340,Jamaica,Americas Division,Private Individual,Verity Hotel Holdings,Franchised,Brightwater Operating Group,Jordan Lindqvist
+CAPKE,Kestrel Reserve Cape Town,Kestrel Reserve,Open,Luxury,Urban,172,South Africa,EMEA Division,Private Company,Kingsmere Hotel Holdings,Managed,Northvale Hotel Group,Priya Moreau
+NASCL,Northvale Vacation Club Nashville,Northvale Vacation Club,Closed,Timeshare,Urban,137,United States,Americas Division,REIT,Ashgrove Capital LLC,Managed,Northvale Hotel Group,
+MOQRK,The Mercer Yard Montego Bay,The Archive Collection,Open,Lifestyle,Resort,420,Jamaica,Lifestyle Division,REIT,Harrow Capital LLC,Managed,Northvale Hotel Group,Jordan Moreau
+TOBCY,Northvale Toronto Midtown,Northvale Hotels,Open,Full Service,Business,363,Canada,Americas Division,REIT,Birchgate Development LLC,Franchised,Quillfield Hotel Management,Jordan Castillo
+BANPL,Vale Place Bangkok,Vale Place,Open,Select Service,Business,159,Thailand,APAC Division,REIT,Harrow Real Estate Partners,Franchised,Brightwater Operating Group,Mei Castillo
+MERQO,Northvale Medellin Midtown,Northvale Hotels,Open,Full Service,Urban,588,Colombia,Americas Division,Private Individual,Calder Investments Ltd.,Managed,Northvale Hotel Group,Priya Moreau
+MONLU,Lumen Montego Bay,Lumen Hotels,Open,Lifestyle,Urban,802,Jamaica,Lifestyle Division,Institutional Fund,Verity Development LLC,Franchised,Ninefold Hotel Services,
+HAMTI,Tidewater Resorts Hamburg Resort,Tidewater Resorts,Closed,All Inclusive,Resort,457,Germany,EMEA Division,Institutional Fund,Calder Development LLC,Franchised,Larkspur Management Ltd.,Jordan Lindqvist
+ISTAR,Villa Serin Istanbul,The Archive Collection,Open,Lifestyle,Business,420,Turkey,Lifestyle Division,Private Individual,Ashgrove Development LLC,Managed,Northvale Hotel Group,Priya Ivanova
+DOOFP,Northvale Doha,Northvale Hotels,Closed,Full Service,Business,536,Qatar,EMEA Division,Institutional Fund,Lowell Investments Ltd.,Managed,Northvale Hotel Group,Priya Moreau
+RIYGR,Northvale Grand Riyadh,Northvale Grand,Open,Full Service,Urban,869,Saudi Arabia,EMEA Division,REIT,Birchgate Development LLC,Managed,Northvale Hotel Group,Chris Okafor
+MOKSJ,Kestrel Reserve Montego Bay,Kestrel Reserve,Open,Luxury,Resort,213,Jamaica,Americas Division,Public Company,Kingsmere Development LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+CALNO,Northvale Calgary,Northvale Hotels,Open,Full Service,Resort,333,Canada,Americas Division,Private Company,Birchgate Real Estate Partners,Franchised,Larkspur Management Ltd.,Tomas Okafor
+MOAGP,Vale Place Montego Bay Harbor,Vale Place,Open,Select Service,Urban,155,Jamaica,Americas Division,REIT,Verity Property Trust,Managed,Northvale Hotel Group,Chris Okafor
+GUHUX,Vale Place Guadalajara,Vale Place,Open,Select Service,Business,165,Mexico,Americas Division,Private Individual,Sterling Vale Development LLC,Franchised,Brightwater Operating Group,Ryan Ivanova
+QUECL,Northvale Vacation Club Queenstown,Northvale Vacation Club,Open,Timeshare,Business,80,New Zealand,APAC Division,Private Individual,Redfern Property Trust,Managed,Northvale Hotel Group,Priya Abernathy
+LONTI,Tidewater Resorts London Resort,Tidewater Resorts,Open,All Inclusive,Resort,608,United Kingdom,EMEA Division,Private Individual,Sterling Vale Property Trust,Managed,Northvale Hotel Group,Aisha Okafor
+CARAR,The Archive Collection Cartagena,The Archive Collection,Open,Lifestyle,Business,734,Colombia,Lifestyle Division,Private Company,Wexford Investments Ltd.,Franchised,Corvel Hospitality,
+RIOGR,Northvale Grand Rio de Janeiro,Northvale Grand,Open,Full Service,Urban,674,Brazil,Americas Division,Private Company,Sterling Vale Investments Ltd.,Managed,Northvale Hotel Group,Ryan Ivanova
+BENHO,Vale House Bengaluru Central,Vale House,Open,Select Service,Resort,160,India,APAC Division,Institutional Fund,Verity Capital LLC,Franchised,Corvel Hospitality,Chris Okafor
+RIWGF,Vale Place Rio de Janeiro,Vale Place,Open,Select Service,Urban,208,Brazil,Americas Division,Private Individual,Birchgate Real Estate Partners,Managed,Northvale Hotel Group,
+CARKE,Kestrel Reserve Cartagena,Kestrel Reserve,Open,Luxury,Business,216,Colombia,Americas Division,Private Company,Sterling Vale Investments Ltd.,Managed,Northvale Hotel Group,
+LILWB,Northvale Lima North,Northvale Hotels,Open,Full Service,Business,320,Peru,Americas Division,Private Company,Lowell Hotel Holdings,Managed,Northvale Hotel Group,Grace Fairbanks
+DANPL,Vale Place Da Nang,Vale Place,Open,Select Service,Urban,130,Vietnam,APAC Division,REIT,Pemberly Investments Ltd.,Franchised,Quillfield Hotel Management,Tomas Okafor
+BAGXR,Vale House Bali,Vale House,Open,Select Service,Urban,100,Indonesia,APAC Division,REIT,Kingsmere Real Estate Partners,Managed,Northvale Hotel Group,
+PERNO,Northvale Perth,Northvale Hotels,Open,Full Service,Urban,408,Australia,APAC Division,Institutional Fund,Meadowbank Hotel Holdings,Managed,Northvale Hotel Group,Grace Fairbanks
+MODYZ,Northvale Montego Bay Midtown,Northvale Hotels,Open,Full Service,Urban,681,Jamaica,Americas Division,Public Company,Harrow Property Trust,Franchised,Quillfield Hotel Management,Laura Nakamura
+BERTI,Tidewater Resorts Berlin Resort,Tidewater Resorts,Open,All Inclusive,Resort,546,Germany,EMEA Division,Public Company,Ellison Investments Ltd.,Managed,Northvale Hotel Group,Mei Castillo
+MANKE,Kestrel Reserve Manila,Kestrel Reserve,Open,Luxury,Urban,169,Philippines,APAC Division,Private Individual,Lowell Hotel Holdings,Managed,Northvale Hotel Group,Jordan Lindqvist
+BARAR,The Archive Collection Barcelona,The Archive Collection,Open,Lifestyle,Business,220,Spain,Lifestyle Division,Institutional Fund,Castellan Property Trust,Managed,Northvale Hotel Group,Priya Moreau
+SHELU,Lumen Shenzhen,Lumen Hotels,Open,Lifestyle,Urban,353,China,Lifestyle Division,Private Company,Calder Capital LLC,Franchised,Larkspur Management Ltd.,Laura Nakamura
+BEIGR,Northvale Grand Beijing,Northvale Grand,Open,Full Service,Business,512,China,APAC Division,Private Individual,Thornbury Hotel Holdings,Managed,Northvale Hotel Group,Mei Castillo
+RIZXS,Vale Place Rio de Janeiro Harbor,Vale Place,Open,Select Service,Business,93,Brazil,Americas Division,Private Company,Ellison Property Trust,Franchised,Tamsin Lodging Co.,Tomas Okafor
+MALAR,The Archive Collection Mallorca,The Archive Collection,Open,Lifestyle,Resort,402,Spain,Lifestyle Division,REIT,Thornbury Investments Ltd.,Managed,Northvale Hotel Group,
+SYZBQ,Vale Place Sydney,Vale Place,Open,Select Service,Urban,111,Australia,APAC Division,Private Individual,Oriel Capital LLC,Franchised,Corvel Hospitality,
+VANLU,Lumen Vancouver,Lumen Hotels,Open,Lifestyle,Urban,334,Canada,Lifestyle Division,Public Company,Birchgate Hotel Holdings,Managed,Northvale Hotel Group,Tomas Okafor
+BERPL,Vale Place Berlin,Vale Place,Open,Select Service,Urban,107,Germany,EMEA Division,Institutional Fund,Meadowbank Hotel Holdings,Franchised,Aldermoor Hospitality,
+PUMUM,Vale House Punta Cana,Vale House,Open,Select Service,Urban,103,Dominican Republic,Americas Division,Private Individual,Oriel Property Trust,Managed,Northvale Hotel Group,Chris Okafor
+SINHO,Vale House Singapore Old Town,Vale House,Open,Select Service,Urban,140,Singapore,APAC Division,Institutional Fund,Kingsmere Investments Ltd.,Franchised,Tamsin Lodging Co.,
+KUURY,Vale Place Kuala Lumpur Convention Center,Vale Place,Open,Select Service,Business,148,Malaysia,APAC Division,Public Company,Sterling Vale Real Estate Partners,Franchised,Aldermoor Hospitality,Jordan Moreau
+LOSLU,Lumen Los Cabos,Lumen Hotels,Open,Lifestyle,Business,657,Mexico,Lifestyle Division,Institutional Fund,Ellison Real Estate Partners,Managed,Northvale Hotel Group,Laura Nakamura
+BALNO,Northvale Bali Waterfront,Northvale Hotels,Open,Full Service,Urban,579,Indonesia,APAC Division,Public Company,Calder Hotel Holdings,Franchised,Corvel Hospitality,Jordan Lindqvist
+SEOPL,Vale Place Seoul,Vale Place,Open,Select Service,Business,90,South Korea,APAC Division,REIT,Castellan Hotel Holdings,Franchised,Larkspur Management Ltd.,Chris Okafor
+OTTNO,Northvale Ottawa,Northvale Hotels,Open,Full Service,Urban,439,Canada,Americas Division,Private Individual,Meadowbank Investments Ltd.,Franchised,Corvel Hospitality,Laura Nakamura
+CAILU,Lumen Cairo,Lumen Hotels,Open,Lifestyle,Urban,888,Egypt,Lifestyle Division,Private Company,Ellison Development LLC,Franchised,Quillfield Hotel Management,Priya Abernathy
+PUDPO,Vale House Punta Cana Old Town,Vale House,Open,Select Service,Resort,161,Dominican Republic,Americas Division,REIT,Wexford Investments Ltd.,Managed,Northvale Hotel Group,Priya Ivanova
+CAICL,Northvale Vacation Club Cairo,Northvale Vacation Club,Open,Timeshare,Urban,142,Egypt,EMEA Division,REIT,Lowell Capital LLC,Franchised,Corvel Hospitality,
+KYEIB,Northvale Kyoto Central,Northvale Hotels,Open,Full Service,Urban,890,Japan,APAC Division,REIT,Verity Real Estate Partners,Managed,Northvale Hotel Group,
+CAPAR,The Archive Collection Cape Town,The Archive Collection,Open,Lifestyle,Business,507,South Africa,Lifestyle Division,Private Individual,Lowell Real Estate Partners,Managed,Northvale Hotel Group,Jordan Moreau
+MANAR,The Archive Collection Manila,The Archive Collection,Open,Lifestyle,Urban,465,Philippines,Lifestyle Division,Institutional Fund,Lowell Development LLC,Franchised,Ninefold Hotel Services,
+MODLA,Northvale Montego Bay,Northvale Hotels,Open,Full Service,Urban,542,Jamaica,Americas Division,Institutional Fund,Ashgrove Real Estate Partners,Managed,Northvale Hotel Group,
+KUALU,Lumen Kuala Lumpur,Lumen Hotels,Open,Lifestyle,Urban,538,Malaysia,Lifestyle Division,REIT,Birchgate Investments Ltd.,Managed,Northvale Hotel Group,
+SINLU,Lumen Singapore,Lumen Hotels,Open,Lifestyle,Business,248,Singapore,Lifestyle Division,Institutional Fund,Harrow Investments Ltd.,Managed,Northvale Hotel Group,Jordan Moreau
+GUDRT,The Archive Collection Guanacaste,The Archive Collection,Open,Lifestyle,Business,844,Costa Rica,Lifestyle Division,Private Individual,Wexford Hotel Holdings,Managed,Northvale Hotel Group,Grace Fairbanks
+DUBHO,Vale House Dublin,Vale House,Open,Select Service,Urban,110,Ireland,EMEA Division,Public Company,Harrow Development LLC,Franchised,Quillfield Hotel Management,Jordan Lindqvist
+GUZPP,Northvale Guadalajara Downtown,Northvale Hotels,Open,Full Service,Business,293,Mexico,Americas Division,Private Individual,Thornbury Real Estate Partners,Managed,Northvale Hotel Group,Jordan Lindqvist
+SIANL,Vale Place Singapore Riverfront,Vale Place,Open,Select Service,Business,118,Singapore,APAC Division,Private Individual,Redfern Investments Ltd.,Managed,Northvale Hotel Group,
+NICLU,Lumen Nice,Lumen Hotels,Open,Lifestyle,Urban,253,France,Lifestyle Division,Private Individual,Birchgate Property Trust,Franchised,Larkspur Management Ltd.,
+AMSTI,Tidewater Resorts Amsterdam Resort,Tidewater Resorts,Open,All Inclusive,Resort,394,Netherlands,EMEA Division,REIT,Meadowbank Development LLC,Franchised,Aldermoor Hospitality,Tomas Okafor
+ATHHO,Vale House Athens,Vale House,Pipeline,Select Service,Business,94,Greece,EMEA Division,Private Company,Ashgrove Hotel Holdings,Franchised,Ninefold Hotel Services,Jordan Castillo
+MYKPL,Vale Place Mykonos,Vale Place,Open,Select Service,Urban,168,Greece,EMEA Division,Private Company,Ellison Development LLC,Franchised,Sableridge Hotel Partners,Ryan Ivanova
+PHUKE,Kestrel Reserve Phuket,Kestrel Reserve,Open,Luxury,Business,166,Thailand,APAC Division,Public Company,Lowell Hotel Holdings,Managed,Northvale Hotel Group,
+MOAXS,Vale Place Montego Bay Waterfront,Vale Place,Pipeline,Select Service,Business,188,Jamaica,Americas Division,REIT,Sterling Vale Hotel Holdings,Franchised,Sableridge Hotel Partners,Tomas Okafor
+NEWHO,Vale House New York,Vale House,Open,Select Service,Business,142,United States,Americas Division,Institutional Fund,Meadowbank Real Estate Partners,Franchised,Corvel Hospitality,Priya Abernathy
+AMSAR,The Archive Collection Amsterdam,The Archive Collection,Closed,Lifestyle,Business,286,Netherlands,Lifestyle Division,Private Company,Birchgate Hotel Holdings,Managed,Northvale Hotel Group,Jordan Moreau
+CAPPL,Vale Place Cape Town,Vale Place,Open,Select Service,Urban,192,South Africa,EMEA Division,REIT,Lowell Development LLC,Franchised,Larkspur Management Ltd.,Aisha Okafor
+SYDNO,Northvale Sydney North,Northvale Hotels,Open,Full Service,Business,428,Australia,APAC Division,Private Company,Pemberly Capital LLC,Franchised,Aldermoor Hospitality,Ryan Ivanova
+SYQXG,Northvale Sydney,Northvale Hotels,Open,Full Service,Business,278,Australia,APAC Division,REIT,Birchgate Investments Ltd.,Managed,Northvale Hotel Group,Priya Ivanova
+OTTGR,Northvale Grand Ottawa,Northvale Grand,Open,Full Service,Resort,259,Canada,Americas Division,Private Company,Wexford Property Trust,Managed,Northvale Hotel Group,Mei Castillo
+RIOAR,The Archive Collection Rio de Janeiro,The Archive Collection,Open,Lifestyle,Business,739,Brazil,Lifestyle Division,Institutional Fund,Ashgrove Development LLC,Franchised,Quillfield Hotel Management,Tomas Okafor
+SHATI,Tidewater Resorts Shanghai Resort,Tidewater Resorts,Open,All Inclusive,Resort,325,China,APAC Division,Private Individual,Calder Hotel Holdings,Managed,Northvale Hotel Group,Aisha Okafor
+AMSGR,Northvale Grand Amsterdam,Northvale Grand,Open,Full Service,Resort,768,Netherlands,EMEA Division,REIT,Meadowbank Capital LLC,Managed,Northvale Hotel Group,
+ABUGR,Northvale Grand Abu Dhabi,Northvale Grand,Open,Full Service,Urban,536,United Arab Emirates,EMEA Division,Private Company,Calder Property Trust,Managed,Northvale Hotel Group,Priya Abernathy
+PHUTI,Tidewater Resorts Phuket Resort,Tidewater Resorts,Open,All Inclusive,Resort,424,Thailand,APAC Division,REIT,Ashgrove Real Estate Partners,Franchised,Aldermoor Hospitality,
+MADYP,Northvale Manchester North,Northvale Hotels,Open,Full Service,Urban,580,United Kingdom,EMEA Division,REIT,Calder Real Estate Partners,Franchised,Aldermoor Hospitality,Jordan Castillo
+DUNBB,Vale Place Dubai Airport,Vale Place,Open,Select Service,Resort,160,United Arab Emirates,EMEA Division,Private Individual,Oriel Capital LLC,Franchised,Brightwater Operating Group,Ryan Ivanova
+CAAVF,Vale Place Calgary Harbor,Vale Place,Open,Select Service,Urban,161,Canada,Americas Division,Institutional Fund,Harrow Hotel Holdings,Franchised,Quillfield Hotel Management,
+ABUNO,Northvale Abu Dhabi Riverfront,Northvale Hotels,Open,Full Service,Business,572,United Arab Emirates,EMEA Division,Public Company,Meadowbank Investments Ltd.,Managed,Northvale Hotel Group,Mei Castillo
+FLOLU,Lumen Florence,Lumen Hotels,Open,Lifestyle,Urban,350,Italy,Lifestyle Division,Institutional Fund,Castellan Hotel Holdings,Franchised,Sableridge Hotel Partners,Ryan Ivanova
+PERHO,Vale House Perth Downtown,Vale House,Open,Select Service,Urban,150,Australia,APAC Division,Public Company,Harrow Property Trust,Managed,Northvale Hotel Group,Aisha Okafor
+ISTNO,Northvale Istanbul Beach,Northvale Hotels,Open,Full Service,Urban,616,Turkey,EMEA Division,Private Individual,Ellison Capital LLC,Managed,Northvale Hotel Group,Laura Nakamura
+PUNLU,Lumen Punta Cana,Lumen Hotels,Open,Lifestyle,Urban,756,Dominican Republic,Lifestyle Division,Institutional Fund,Redfern Capital LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+MUNAR,The Archive Collection Munich,The Archive Collection,Open,Lifestyle,Urban,858,Germany,Lifestyle Division,Public Company,Meadowbank Capital LLC,Franchised,Larkspur Management Ltd.,Priya Moreau
+MEXTI,Tidewater Resorts Mexico City Resort,Tidewater Resorts,Open,All Inclusive,Resort,480,Mexico,Americas Division,REIT,Ellison Real Estate Partners,Managed,Northvale Hotel Group,Priya Moreau
+CALLU,Lumen Calgary,Lumen Hotels,Open,Lifestyle,Business,868,Canada,Lifestyle Division,REIT,Pemberly Hotel Holdings,Managed,Northvale Hotel Group,
+HANNO,Northvale Hanoi Midtown,Northvale Hotels,Open,Full Service,Business,864,Vietnam,APAC Division,Private Company,Ashgrove Hotel Holdings,Managed,Northvale Hotel Group,Jordan Castillo
+MYKGR,Northvale Grand Mykonos,Northvale Grand,Open,Full Service,Business,320,Greece,EMEA Division,Public Company,Thornbury Investments Ltd.,Managed,Northvale Hotel Group,Ryan Ivanova
+CARNO,Northvale Cartagena,Northvale Hotels,Open,Full Service,Urban,612,Colombia,Americas Division,REIT,Meadowbank Investments Ltd.,Franchised,Larkspur Management Ltd.,
+ZURNO,Northvale Zurich,Northvale Hotels,Pipeline,Full Service,Business,277,Switzerland,EMEA Division,Private Company,Sterling Vale Capital LLC,Managed,Northvale Hotel Group,
+MEDAR,The Archive Collection Medellin,The Archive Collection,Pipeline,Lifestyle,Urban,626,Colombia,Lifestyle Division,Private Company,Verity Investments Ltd.,Franchised,Ninefold Hotel Services,Grace Fairbanks
+MARSO,Solace Retreats Marrakech,Solace Retreats,Pipeline,Wellness,Urban,49,Morocco,EMEA Division,Private Company,Lowell Hotel Holdings,Managed,Northvale Hotel Group,Jordan Abernathy
+SAQWC,Vale House Santiago Harbor,Vale House,Open,Select Service,Resort,197,Chile,Americas Division,Private Company,Lowell Investments Ltd.,Franchised,Larkspur Management Ltd.,
+MOSRU,Vale Place Montego Bay Beach,Vale Place,Open,Select Service,Urban,142,Jamaica,Americas Division,REIT,Pemberly Real Estate Partners,Franchised,Brightwater Operating Group,Priya Moreau
+PARTI,Tidewater Resorts Paris Resort,Tidewater Resorts,Open,All Inclusive,Resort,621,France,EMEA Division,Institutional Fund,Verity Capital LLC,Franchised,Quillfield Hotel Management,
+SAYZD,Northvale Sao Paulo Airport,Northvale Hotels,Open,Full Service,Urban,478,Brazil,Americas Division,Private Individual,Lowell Real Estate Partners,Managed,Northvale Hotel Group,Aisha Okafor
+CADUL,Vale Place Calgary Uptown,Vale Place,Open,Select Service,Resort,113,Canada,Americas Division,Private Individual,Sterling Vale Hotel Holdings,Franchised,Aldermoor Hospitality,Jordan Moreau
+BRIPL,Vale Place Brisbane,Vale Place,Open,Select Service,Business,147,Australia,APAC Division,Private Individual,Calder Development LLC,Franchised,Brightwater Operating Group,Priya Ivanova
+MEXKE,Kestrel Reserve Mexico City,Kestrel Reserve,Open,Luxury,Urban,162,Mexico,Americas Division,Private Company,Ashgrove Development LLC,Managed,Northvale Hotel Group,
+MALBU,Vale Place Madrid,Vale Place,Open,Select Service,Business,197,Spain,EMEA Division,Public Company,Kingsmere Development LLC,Franchised,Corvel Hospitality,Aisha Okafor
+GUAHO,Vale House Guanacaste Central,Vale House,Open,Select Service,Resort,98,Costa Rica,Americas Division,Public Company,Meadowbank Development LLC,Managed,Northvale Hotel Group,
+MOSTA,The Archive Collection Montego Bay,The Archive Collection,Open,Lifestyle,Resort,289,Jamaica,Lifestyle Division,Private Company,Calder Hotel Holdings,Franchised,Ninefold Hotel Services,Priya Moreau
+KUAGR,Northvale Grand Kuala Lumpur,Northvale Grand,Pipeline,Full Service,Resort,475,Malaysia,APAC Division,Private Individual,Redfern Development LLC,Managed,Northvale Hotel Group,Jordan Abernathy
+SANNO,Northvale Santiago,Northvale Hotels,Open,Full Service,Business,441,Chile,Americas Division,Institutional Fund,Lowell Development LLC,Managed,Northvale Hotel Group,Jordan Castillo
+PARGR,Northvale Grand Paris,Northvale Grand,Open,Full Service,Urban,452,France,EMEA Division,Public Company,Wexford Real Estate Partners,Franchised,Corvel Hospitality,Laura Nakamura
+PUNNO,Northvale Punta Cana Riverfront,Northvale Hotels,Open,Full Service,Urban,873,Dominican Republic,Americas Division,Institutional Fund,Ellison Investments Ltd.,Franchised,Larkspur Management Ltd.,
+MOXXA,Lumen Montreal,Lumen Hotels,Open,Lifestyle,Business,233,Canada,Lifestyle Division,REIT,Kingsmere Development LLC,Managed,Northvale Hotel Group,Jordan Abernathy
+LIMAR,The Archive Collection Lima,The Archive Collection,Open,Lifestyle,Urban,540,Peru,Lifestyle Division,Institutional Fund,Castellan Investments Ltd.,Managed,Northvale Hotel Group,Jordan Castillo
+OTOAD,Northvale Ottawa Uptown,Northvale Hotels,Open,Full Service,Urban,707,Canada,Americas Division,Public Company,Castellan Hotel Holdings,Franchised,Aldermoor Hospitality,Grace Fairbanks
+CALAR,The Archive Collection Calgary,The Archive Collection,Open,Lifestyle,Urban,707,Canada,Lifestyle Division,REIT,Lowell Investments Ltd.,Managed,Northvale Hotel Group,
+QUEGR,Northvale Grand Queenstown,Northvale Grand,Open,Full Service,Urban,367,New Zealand,APAC Division,Private Company,Castellan Investments Ltd.,Franchised,Corvel Hospitality,Mei Castillo
+CAODQ,Northvale Cartagena Riverfront,Northvale Hotels,Open,Full Service,Resort,884,Colombia,Americas Division,Public Company,Verity Hotel Holdings,Franchised,Ninefold Hotel Services,Chris Okafor
+NAPAR,The Archive Collection Napa,The Archive Collection,Open,Lifestyle,Urban,731,United States,Lifestyle Division,Public Company,Thornbury Investments Ltd.,Franchised,Sableridge Hotel Partners,Priya Moreau
+AMSHO,Vale House Amsterdam,Vale House,Open,Select Service,Business,90,Netherlands,EMEA Division,Private Individual,Meadowbank Capital LLC,Franchised,Ninefold Hotel Services,Priya Abernathy
+MEGFE,Northvale Medellin North,Northvale Hotels,Open,Full Service,Urban,497,Colombia,Americas Division,REIT,Pemberly Property Trust,Managed,Northvale Hotel Group,Tomas Okafor
+GUTPM,Vale Place Guanacaste Beach,Vale Place,Open,Select Service,Business,220,Costa Rica,Americas Division,REIT,Oriel Hotel Holdings,Managed,Northvale Hotel Group,Grace Fairbanks
+MOOBU,Vale House Montego Bay Uptown,Vale House,Open,Select Service,Business,200,Jamaica,Americas Division,Institutional Fund,Wexford Hotel Holdings,Franchised,Aldermoor Hospitality,
+CANPL,Vale Place Cancun,Vale Place,Open,Select Service,Urban,183,Mexico,Americas Division,Institutional Fund,Harrow Real Estate Partners,Franchised,Corvel Hospitality,Priya Abernathy
+LIBVQ,Northvale Lima Convention Center,Northvale Hotels,Open,Full Service,Urban,686,Peru,Americas Division,REIT,Redfern Capital LLC,Managed,Northvale Hotel Group,Tomas Okafor
+BENGR,Northvale Grand Bengaluru,Northvale Grand,Open,Full Service,Urban,304,India,APAC Division,Private Company,Birchgate Investments Ltd.,Managed,Northvale Hotel Group,Aisha Okafor
+VANTI,Tidewater Resorts Vancouver Resort,Tidewater Resorts,Pipeline,All Inclusive,Resort,293,Canada,Americas Division,Private Company,Oriel Capital LLC,Managed,Northvale Hotel Group,Jordan Lindqvist
+MALPL,Vale Place Malaga Riverfront,Vale Place,Open,Select Service,Urban,182,Spain,EMEA Division,Private Company,Sterling Vale Real Estate Partners,Managed,Northvale Hotel Group,Laura Nakamura
+ORLAR,The Archive Collection Orlando,The Archive Collection,Open,Lifestyle,Urban,821,United States,Lifestyle Division,Private Company,Kingsmere Investments Ltd.,Managed,Northvale Hotel Group,Mei Castillo
+VENTI,Tidewater Resorts Venice Resort,Tidewater Resorts,Open,All Inclusive,Resort,506,Italy,EMEA Division,Institutional Fund,Harrow Real Estate Partners,Managed,Northvale Hotel Group,Chris Okafor
+AUCSO,Solace Retreats Auckland,Solace Retreats,Open,Wellness,Business,64,New Zealand,APAC Division,Public Company,Pemberly Development LLC,Managed,Northvale Hotel Group,
+MYKKE,Kestrel Reserve Mykonos,Kestrel Reserve,Open,Luxury,Resort,205,Greece,EMEA Division,Public Company,Meadowbank Property Trust,Managed,Northvale Hotel Group,
+OTTHO,Vale House Ottawa Old Town,Vale House,Open,Select Service,Business,112,Canada,Americas Division,Institutional Fund,Birchgate Capital LLC,Franchised,Ninefold Hotel Services,Aisha Okafor
+SANPL,Vale Place Santiago Waterfront,Vale Place,Open,Select Service,Urban,220,Chile,Americas Division,Institutional Fund,Sterling Vale Investments Ltd.,Managed,Northvale Hotel Group,Chris Okafor
+KYOPL,Vale Place Kyoto,Vale Place,Open,Select Service,Resort,123,Japan,APAC Division,Public Company,Redfern Hotel Holdings,Managed,Northvale Hotel Group,Priya Ivanova
+KYOTI,Tidewater Resorts Kyoto Resort,Tidewater Resorts,Open,All Inclusive,Resort,623,Japan,APAC Division,Public Company,Calder Investments Ltd.,Managed,Northvale Hotel Group,Priya Moreau
+PORPL,Vale Place Porto Riverfront,Vale Place,Open,Select Service,Urban,154,Portugal,EMEA Division,Public Company,Ellison Hotel Holdings,Franchised,Sableridge Hotel Partners,
+SAWLC,Vale Place Sanya Uptown,Vale Place,Open,Select Service,Business,188,China,APAC Division,REIT,Kingsmere Property Trust,Franchised,Tamsin Lodging Co.,
+HAYOC,Tidewater Resorts Hanoi Resort,Tidewater Resorts,Pipeline,All Inclusive,Resort,333,Vietnam,APAC Division,Public Company,Castellan Real Estate Partners,Managed,Northvale Hotel Group,Aisha Okafor
+LIMCL,Northvale Vacation Club Lima,Northvale Vacation Club,Open,Timeshare,Resort,105,Peru,Americas Division,Public Company,Harrow Real Estate Partners,Franchised,Tamsin Lodging Co.,Laura Nakamura
+PUNAR,The Archive Collection Punta Cana,The Archive Collection,Open,Lifestyle,Resort,860,Dominican Republic,Lifestyle Division,REIT,Ashgrove Hotel Holdings,Franchised,Tamsin Lodging Co.,Grace Fairbanks
+CHENO,Northvale Chengdu Central,Northvale Hotels,Open,Full Service,Business,422,China,APAC Division,Private Company,Wexford Capital LLC,Managed,Northvale Hotel Group,
+EDIPL,Vale Place Edinburgh Convention Center,Vale Place,Open,Select Service,Resort,92,United Kingdom,EMEA Division,Institutional Fund,Sterling Vale Real Estate Partners,Managed,Northvale Hotel Group,
+BUSNO,Northvale Busan,Northvale Hotels,Pipeline,Full Service,Business,248,South Korea,APAC Division,Institutional Fund,Sterling Vale Capital LLC,Managed,Northvale Hotel Group,
+MONTI,Tidewater Resorts Montego Bay Resort,Tidewater Resorts,Open,All Inclusive,Resort,277,Jamaica,Americas Division,Private Individual,Redfern Hotel Holdings,Franchised,Corvel Hospitality,
+LIOCM,Northvale Lima Central,Northvale Hotels,Open,Full Service,Business,421,Peru,Americas Division,Private Individual,Birchgate Hotel Holdings,Managed,Northvale Hotel Group,
+QUEHO,Vale House Queenstown Beach,Vale House,Open,Select Service,Business,205,New Zealand,APAC Division,Institutional Fund,Thornbury Capital LLC,Franchised,Sableridge Hotel Partners,Laura Nakamura
+GUSLE,Northvale Guanacaste Airport,Northvale Hotels,Open,Full Service,Urban,820,Costa Rica,Americas Division,Private Company,Wexford Investments Ltd.,Managed,Northvale Hotel Group,Mei Castillo
+BAIAK,Vale Place Bangkok Waterfront,Vale Place,Open,Select Service,Business,108,Thailand,APAC Division,Private Company,Pemberly Real Estate Partners,Franchised,Quillfield Hotel Management,Chris Okafor
+SAHYV,The Archive Collection Santiago,The Archive Collection,Open,Lifestyle,Business,627,Chile,Lifestyle Division,REIT,Harrow Development LLC,Managed,Northvale Hotel Group,Grace Fairbanks
+BERGR,Northvale Grand Berlin,Northvale Grand,Open,Full Service,Urban,776,Germany,EMEA Division,Public Company,Ashgrove Hotel Holdings,Franchised,Corvel Hospitality,Jordan Castillo
+DAOLG,Northvale Da Nang Airport,Northvale Hotels,Open,Full Service,Urban,299,Vietnam,APAC Division,Private Company,Redfern Capital LLC,Franchised,Tamsin Lodging Co.,Mei Castillo
+CAPTI,Tidewater Resorts Cape Town Resort,Tidewater Resorts,Open,All Inclusive,Resort,314,South Africa,EMEA Division,Public Company,Ashgrove Investments Ltd.,Managed,Northvale Hotel Group,Tomas Okafor
+ROMPL,Vale Place Rome Waterfront,Vale Place,Open,Select Service,Urban,160,Italy,EMEA Division,Private Company,Kingsmere Real Estate Partners,Franchised,Larkspur Management Ltd.,Jordan Castillo
+GUAGI,Vale Place Guanacaste North,Vale Place,Open,Select Service,Urban,168,Costa Rica,Americas Division,Private Individual,Ashgrove Capital LLC,Franchised,Corvel Hospitality,
+NAPPL,Vale Place Napa Downtown,Vale Place,Open,Select Service,Urban,148,United States,Americas Division,Public Company,Calder Property Trust,Franchised,Quillfield Hotel Management,
+MOBDI,Vale House Montreal Beach,Vale House,Pipeline,Select Service,Urban,197,Canada,Americas Division,REIT,Calder Hotel Holdings,Franchised,Sableridge Hotel Partners,
+RALGR,Northvale Grand Raleigh,Northvale Grand,Open,Full Service,Urban,701,United States,Americas Division,Private Company,Castellan Real Estate Partners,Managed,Northvale Hotel Group,Ryan Ivanova
+NISCL,Northvale Vacation Club Niseko,Northvale Vacation Club,Open,Timeshare,Business,155,Japan,APAC Division,Private Company,Calder Real Estate Partners,Managed,Northvale Hotel Group,Mei Castillo
+STLPL,Vale Place St. Louis,Vale Place,Open,Select Service,Urban,151,United States,Americas Division,REIT,Lowell Investments Ltd.,Franchised,Corvel Hospitality,Jordan Moreau
+HAMKE,Kestrel Reserve Hamburg,Kestrel Reserve,Open,Luxury,Urban,134,Germany,EMEA Division,Private Individual,Wexford Property Trust,Managed,Northvale Hotel Group,
+BRINO,Northvale Brisbane,Northvale Hotels,Open,Full Service,Resort,491,Australia,APAC Division,Public Company,Lowell Development LLC,Managed,Northvale Hotel Group,Mei Castillo
+BUSHO,Vale House Busan Airport,Vale House,Open,Select Service,Business,113,South Korea,APAC Division,Public Company,Kingsmere Hotel Holdings,Franchised,Aldermoor Hospitality,Aisha Okafor
+MOJJS,Northvale Montego Bay North,Northvale Hotels,Open,Full Service,Business,560,Jamaica,Americas Division,Public Company,Pemberly Hotel Holdings,Managed,Northvale Hotel Group,
+PUQDR,Northvale Punta Cana Central,Northvale Hotels,Open,Full Service,Business,549,Dominican Republic,Americas Division,REIT,Redfern Capital LLC,Managed,Northvale Hotel Group,Chris Okafor
+PUXIK,Vale House Punta Cana Harbor,Vale House,Open,Select Service,Urban,134,Dominican Republic,Americas Division,Private Company,Oriel Development LLC,Managed,Northvale Hotel Group,Jordan Abernathy
+CARTI,Tidewater Resorts Cartagena Resort,Tidewater Resorts,Open,All Inclusive,Resort,318,Colombia,Americas Division,Public Company,Wexford Real Estate Partners,Franchised,Tamsin Lodging Co.,Jordan Moreau
+PEIDW,Vale House Perth,Vale House,Open,Select Service,Urban,105,Australia,APAC Division,Private Company,Meadowbank Investments Ltd.,Franchised,Aldermoor Hospitality,Grace Fairbanks
+ATHCL,Northvale Vacation Club Athens,Northvale Vacation Club,Open,Timeshare,Resort,65,Greece,EMEA Division,Private Company,Thornbury Property Trust,Managed,Northvale Hotel Group,Jordan Castillo
+MEIAI,Vale Place Mexico City Waterfront,Vale Place,Open,Select Service,Resort,120,Mexico,Americas Division,Private Company,Oriel Development LLC,Managed,Northvale Hotel Group,Laura Nakamura
+BERKE,Kestrel Reserve Berlin,Kestrel Reserve,Pipeline,Luxury,Business,234,Germany,EMEA Division,Public Company,Harrow Capital LLC,Managed,Northvale Hotel Group,
+MEDTI,Tidewater Resorts Medellin Resort,Tidewater Resorts,Open,All Inclusive,Resort,362,Colombia,Americas Division,Public Company,Verity Development LLC,Managed,Northvale Hotel Group,
+GUFYJ,Vale Place Guanacaste Airport,Vale Place,Open,Select Service,Business,181,Costa Rica,Americas Division,Private Individual,Pemberly Hotel Holdings,Franchised,Corvel Hospitality,Chris Okafor
+GUXMN,Tidewater Resorts Guadalajara Resort,Tidewater Resorts,Open,All Inclusive,Resort,430,Mexico,Americas Division,Institutional Fund,Castellan Real Estate Partners,Franchised,Brightwater Operating Group,Aisha Okafor
+SINKE,Kestrel Reserve Singapore,Kestrel Reserve,Open,Luxury,Urban,221,Singapore,APAC Division,Institutional Fund,Birchgate Development LLC,Managed,Northvale Hotel Group,
+MARAR,The Archive Collection Marrakech,The Archive Collection,Open,Lifestyle,Urban,701,Morocco,Lifestyle Division,REIT,Calder Hotel Holdings,Franchised,Ninefold Hotel Services,Priya Moreau
+RIOTI,Tidewater Resorts Rio de Janeiro Resort,Tidewater Resorts,Open,All Inclusive,Resort,525,Brazil,Americas Division,Private Individual,Pemberly Real Estate Partners,Managed,Northvale Hotel Group,Jordan Moreau
+JEDNO,Northvale Jeddah Airport,Northvale Hotels,Open,Full Service,Urban,337,Saudi Arabia,EMEA Division,Public Company,Castellan Capital LLC,Franchised,Aldermoor Hospitality,Tomas Okafor
+CALTI,Tidewater Resorts Calgary Resort,Tidewater Resorts,Open,All Inclusive,Resort,357,Canada,Americas Division,Public Company,Ellison Real Estate Partners,Franchised,Ninefold Hotel Services,Priya Ivanova
+SYDTI,Tidewater Resorts Sydney Resort,Tidewater Resorts,Open,All Inclusive,Resort,535,Australia,APAC Division,Institutional Fund,Castellan Capital LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+LOSTI,Tidewater Resorts Los Cabos Resort,Tidewater Resorts,Open,All Inclusive,Resort,323,Mexico,Americas Division,Private Individual,Harrow Development LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+CARGR,Northvale Grand Cartagena,Northvale Grand,Open,Full Service,Business,486,Colombia,Americas Division,Private Company,Ashgrove Development LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+MAMLC,Vale Place Madrid Old Town,Vale Place,Open,Select Service,Urban,172,Spain,EMEA Division,Private Individual,Redfern Property Trust,Franchised,Brightwater Operating Group,
+ATHPL,Vale Place Athens Convention Center,Vale Place,Open,Select Service,Urban,133,Greece,EMEA Division,Private Individual,Birchgate Real Estate Partners,Franchised,Tamsin Lodging Co.,Mei Castillo
+TORTI,Tidewater Resorts Toronto Resort,Tidewater Resorts,Open,All Inclusive,Resort,509,Canada,Americas Division,Private Company,Redfern Real Estate Partners,Franchised,Sableridge Hotel Partners,
+OMANO,Northvale Omaha,Northvale Hotels,Pipeline,Full Service,Business,492,United States,Americas Division,Institutional Fund,Ellison Capital LLC,Managed,Northvale Hotel Group,Aisha Okafor
+GULHP,Vale Place Guanacaste Uptown,Vale Place,Open,Select Service,Resort,111,Costa Rica,Americas Division,Private Company,Lowell Real Estate Partners,Managed,Northvale Hotel Group,Aisha Okafor
+MEDLU,Lumen Medellin,Lumen Hotels,Open,Lifestyle,Urban,624,Colombia,Lifestyle Division,Private Individual,Verity Investments Ltd.,Managed,Northvale Hotel Group,
+TUWEG,Northvale Tulum Old Town,Northvale Hotels,Open,Full Service,Business,358,Mexico,Americas Division,Private Company,Wexford Development LLC,Franchised,Quillfield Hotel Management,Chris Okafor
+PARPL,Vale Place Paris,Vale Place,Open,Select Service,Urban,185,France,EMEA Division,Institutional Fund,Wexford Property Trust,Franchised,Ninefold Hotel Services,Tomas Okafor
+VANCL,Northvale Vacation Club Vancouver,Northvale Vacation Club,Open,Timeshare,Resort,104,Canada,Americas Division,Public Company,Verity Property Trust,Franchised,Larkspur Management Ltd.,Jordan Moreau
+DELLU,Lumen Delhi,Lumen Hotels,Open,Lifestyle,Resort,722,India,Lifestyle Division,REIT,Lowell Real Estate Partners,Managed,Northvale Hotel Group,
+SIKAL,Vale House Singapore Harbor,Vale House,Open,Select Service,Business,90,Singapore,APAC Division,Private Company,Thornbury Property Trust,Franchised,Brightwater Operating Group,Jordan Moreau
+BAAVT,Northvale Baltimore,Northvale Hotels,Open,Full Service,Resort,892,United States,Americas Division,Private Individual,Birchgate Property Trust,Managed,Northvale Hotel Group,Priya Ivanova
+MEXAR,The Archive Collection Mexico City,The Archive Collection,Pipeline,Lifestyle,Urban,793,Mexico,Lifestyle Division,Private Individual,Pemberly Real Estate Partners,Managed,Northvale Hotel Group,Jordan Lindqvist
+DOHAR,The Archive Collection Doha,The Archive Collection,Open,Lifestyle,Business,434,Qatar,Lifestyle Division,REIT,Pemberly Hotel Holdings,Franchised,Tamsin Lodging Co.,Jordan Lindqvist
+ORLPL,Vale Place Orlando Airport,Vale Place,Open,Select Service,Business,195,United States,Americas Division,Institutional Fund,Meadowbank Property Trust,Franchised,Tamsin Lodging Co.,
+GENHO,Vale House Geneva Beach,Vale House,Open,Select Service,Resort,92,Switzerland,EMEA Division,Public Company,Ellison Investments Ltd.,Franchised,Ninefold Hotel Services,Jordan Lindqvist
+RALCL,Northvale Vacation Club Raleigh,Northvale Vacation Club,Open,Timeshare,Business,155,United States,Americas Division,Private Company,Redfern Investments Ltd.,Franchised,Corvel Hospitality,Ryan Ivanova
+MALHO,Vale House Malaga,Vale House,Open,Select Service,Business,197,Spain,EMEA Division,Institutional Fund,Verity Development LLC,Franchised,Aldermoor Hospitality,
+LIMKE,Kestrel Reserve Lima,Kestrel Reserve,Closed,Luxury,Resort,248,Peru,Americas Division,Private Company,Sterling Vale Property Trust,Managed,Northvale Hotel Group,
+VENPL,Vale Place Venice Central,Vale Place,Open,Select Service,Business,127,Italy,EMEA Division,Public Company,Ellison Hotel Holdings,Managed,Northvale Hotel Group,Chris Okafor
+PEYDL,Vale House Perth Convention Center,Vale House,Pipeline,Select Service,Urban,184,Australia,APAC Division,Private Company,Verity Property Trust,Franchised,Aldermoor Hospitality,
+BAEDH,Northvale Bali Airport,Northvale Hotels,Open,Full Service,Business,650,Indonesia,APAC Division,Institutional Fund,Birchgate Property Trust,Franchised,Quillfield Hotel Management,Priya Moreau
+DENHO,Vale House Denver,Vale House,Open,Select Service,Urban,202,United States,Americas Division,Institutional Fund,Calder Hotel Holdings,Franchised,Sableridge Hotel Partners,Chris Okafor
+CAXGS,Northvale Cartagena Midtown,Northvale Hotels,Open,Full Service,Urban,186,Colombia,Americas Division,Public Company,Calder Capital LLC,Franchised,Brightwater Operating Group,
+SEJWE,Vale Place Seoul Airport,Vale Place,Open,Select Service,Business,192,South Korea,APAC Division,Private Company,Birchgate Hotel Holdings,Managed,Northvale Hotel Group,Mei Castillo
+RIYPL,Vale Place Riyadh,Vale Place,Open,Select Service,Urban,120,Saudi Arabia,EMEA Division,REIT,Sterling Vale Real Estate Partners,Managed,Northvale Hotel Group,Tomas Okafor
+CHELU,Lumen Chengdu,Lumen Hotels,Open,Lifestyle,Business,442,China,Lifestyle Division,Private Individual,Verity Property Trust,Managed,Northvale Hotel Group,Priya Ivanova
+DUMJV,Vale Place Dublin Downtown,Vale Place,Open,Select Service,Business,111,Ireland,EMEA Division,Private Individual,Birchgate Real Estate Partners,Franchised,Ninefold Hotel Services,Laura Nakamura
+POWKZ,Vale Place Porto,Vale Place,Open,Select Service,Business,185,Portugal,EMEA Division,REIT,Sterling Vale Capital LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+BERHO,Vale House Berlin,Vale House,Open,Select Service,Urban,196,Germany,EMEA Division,Public Company,Kingsmere Development LLC,Franchised,Ninefold Hotel Services,Aisha Okafor
+LIIML,Vale Place Lima Convention Center,Vale Place,Open,Select Service,Urban,103,Peru,Americas Division,REIT,Ellison Real Estate Partners,Franchised,Brightwater Operating Group,
+SAVHB,Vale House Sao Paulo Central,Vale House,Open,Select Service,Urban,121,Brazil,Americas Division,Private Company,Meadowbank Property Trust,Franchised,Corvel Hospitality,Grace Fairbanks
+JEDLU,Lumen Jeddah,Lumen Hotels,Open,Lifestyle,Business,365,Saudi Arabia,Lifestyle Division,REIT,Kingsmere Development LLC,Franchised,Corvel Hospitality,
+CARNQ,Northvale Cairo Midtown,Northvale Hotels,Open,Full Service,Urban,814,Egypt,EMEA Division,Public Company,Harrow Capital LLC,Managed,Northvale Hotel Group,Jordan Castillo
+JEDAR,The Archive Collection Jeddah,The Archive Collection,Open,Lifestyle,Urban,485,Saudi Arabia,Lifestyle Division,REIT,Ashgrove Investments Ltd.,Managed,Northvale Hotel Group,
+BALPL,Vale Place Bali,Vale Place,Open,Select Service,Business,189,Indonesia,APAC Division,Public Company,Lowell Hotel Holdings,Managed,Northvale Hotel Group,Chris Okafor
+ISIUS,Vale Place Istanbul Harbor,Vale Place,Open,Select Service,Urban,203,Turkey,EMEA Division,Institutional Fund,Pemberly Real Estate Partners,Managed,Northvale Hotel Group,Jordan Moreau
+SINNO,Northvale Singapore Airport,Northvale Hotels,Closed,Full Service,Urban,771,Singapore,APAC Division,REIT,Oriel Property Trust,Managed,Northvale Hotel Group,
+ROMNO,Northvale Rome Central,Northvale Hotels,Open,Full Service,Business,470,Italy,EMEA Division,Institutional Fund,Calder Real Estate Partners,Managed,Northvale Hotel Group,Grace Fairbanks
+MEDJD,Vale Place Medellin Midtown,Vale Place,Open,Select Service,Resort,204,Colombia,Americas Division,Private Individual,Wexford Real Estate Partners,Managed,Northvale Hotel Group,Jordan Abernathy
+PUPCY,Vale Place Punta Cana Old Town,Vale Place,Open,Select Service,Resort,150,Dominican Republic,Americas Division,REIT,Lowell Real Estate Partners,Franchised,Larkspur Management Ltd.,Mei Castillo
+MAICJ,Northvale Marrakech North,Northvale Hotels,Open,Full Service,Urban,826,Morocco,EMEA Division,Private Company,Birchgate Property Trust,Managed,Northvale Hotel Group,Tomas Okafor
+EDINO,Northvale Edinburgh,Northvale Hotels,Open,Full Service,Business,885,United Kingdom,EMEA Division,Private Individual,Thornbury Investments Ltd.,Managed,Northvale Hotel Group,
+JAKGR,Northvale Grand Jakarta,Northvale Grand,Open,Full Service,Urban,738,Indonesia,APAC Division,Private Company,Pemberly Property Trust,Managed,Northvale Hotel Group,Tomas Okafor
+MARTI,Tidewater Resorts Marrakech Resort,Tidewater Resorts,Pipeline,All Inclusive,Resort,520,Morocco,EMEA Division,Private Company,Birchgate Capital LLC,Franchised,Larkspur Management Ltd.,Jordan Moreau
+KANPL,Vale Place Kansas City,Vale Place,Open,Select Service,Urban,208,United States,Americas Division,REIT,Pemberly Hotel Holdings,Managed,Northvale Hotel Group,Chris Okafor
+VELSN,Vale Place Venice Downtown,Vale Place,Open,Select Service,Resort,100,Italy,EMEA Division,Private Individual,Birchgate Property Trust,Franchised,Larkspur Management Ltd.,Jordan Abernathy
+GOGLQ,Vale Place Goa Airport,Vale Place,Open,Select Service,Resort,136,India,APAC Division,Institutional Fund,Pemberly Hotel Holdings,Franchised,Aldermoor Hospitality,Tomas Okafor
+DANGR,Northvale Grand Da Nang,Northvale Grand,Open,Full Service,Urban,326,Vietnam,APAC Division,Institutional Fund,Kingsmere Property Trust,Franchised,Sableridge Hotel Partners,Priya Ivanova
+SAFCS,Tidewater Resorts Sanya Resort,Tidewater Resorts,Open,All Inclusive,Resort,600,China,APAC Division,Private Company,Verity Investments Ltd.,Franchised,Aldermoor Hospitality,Jordan Abernathy
+MOAWY,Vale Place Montreal Uptown,Vale Place,Open,Select Service,Urban,104,Canada,Americas Division,REIT,Thornbury Property Trust,Managed,Northvale Hotel Group,Grace Fairbanks
+PUSLD,Northvale Punta Cana North,Northvale Hotels,Open,Full Service,Business,635,Dominican Republic,Americas Division,Institutional Fund,Lowell Investments Ltd.,Managed,Northvale Hotel Group,Grace Fairbanks
+SALFX,Vale Place Sao Paulo,Vale Place,Open,Select Service,Urban,174,Brazil,Americas Division,Private Company,Calder Investments Ltd.,Managed,Northvale Hotel Group,Laura Nakamura
+DUBLU,Lumen Dublin,Lumen Hotels,Open,Lifestyle,Urban,753,Ireland,Lifestyle Division,REIT,Oriel Real Estate Partners,Franchised,Sableridge Hotel Partners,
+LIEGL,Vale Place Lima North,Vale Place,Open,Select Service,Urban,203,Peru,Americas Division,REIT,Pemberly Development LLC,Franchised,Corvel Hospitality,Jordan Castillo
+SAXLX,Vale House Santiago Midtown,Vale House,Pipeline,Select Service,Resort,175,Chile,Americas Division,REIT,Redfern Real Estate Partners,Managed,Northvale Hotel Group,
+KUANO,Northvale Kuala Lumpur Uptown,Northvale Hotels,Open,Full Service,Urban,877,Malaysia,APAC Division,Institutional Fund,Verity Capital LLC,Managed,Northvale Hotel Group,Grace Fairbanks
+BUZVU,Northvale Busan Harbor,Northvale Hotels,Open,Full Service,Business,894,South Korea,APAC Division,Institutional Fund,Castellan Investments Ltd.,Franchised,Aldermoor Hospitality,Jordan Moreau
+SINGR,Northvale Grand Singapore,Northvale Grand,Open,Full Service,Resort,484,Singapore,APAC Division,Private Company,Pemberly Investments Ltd.,Managed,Northvale Hotel Group,Chris Okafor
+HAMNO,Northvale Hamburg Uptown,Northvale Hotels,Open,Full Service,Urban,433,Germany,EMEA Division,REIT,Wexford Hotel Holdings,Managed,Northvale Hotel Group,Aisha Okafor
+LISLU,Lumen Lisbon,Lumen Hotels,Open,Lifestyle,Urban,326,Portugal,Lifestyle Division,Private Company,Ellison Hotel Holdings,Managed,Northvale Hotel Group,Laura Nakamura
+HAUKE,Vale House Hangzhou,Vale House,Open,Select Service,Urban,204,China,APAC Division,REIT,Kingsmere Property Trust,Franchised,Sableridge Hotel Partners,Ryan Ivanova
+RINPL,Northvale Rio de Janeiro Airport,Northvale Hotels,Open,Full Service,Resort,747,Brazil,Americas Division,Institutional Fund,Castellan Investments Ltd.,Franchised,Brightwater Operating Group,Priya Moreau
+MOTHD,Vale Place Montego Bay Riverfront,Vale Place,Open,Select Service,Business,207,Jamaica,Americas Division,Private Company,Calder Real Estate Partners,Managed,Northvale Hotel Group,Priya Ivanova
+TAMNO,Northvale Tampa,Northvale Hotels,Open,Full Service,Urban,747,United States,Americas Division,Institutional Fund,Ashgrove Property Trust,Managed,Northvale Hotel Group,Aisha Okafor
+VALBY,Vale House Vancouver,Vale House,Closed,Select Service,Urban,195,Canada,Americas Division,Institutional Fund,Meadowbank Hotel Holdings,Managed,Northvale Hotel Group,
+KYOCL,Northvale Vacation Club Kyoto,Northvale Vacation Club,Open,Timeshare,Business,68,Japan,APAC Division,Public Company,Sterling Vale Hotel Holdings,Franchised,Larkspur Management Ltd.,Jordan Moreau
+BOIHO,Vale House Boise,Vale House,Open,Select Service,Business,191,United States,Americas Division,Public Company,Harrow Development LLC,Franchised,Larkspur Management Ltd.,Aisha Okafor
+MUNNO,Northvale Munich,Northvale Hotels,Open,Full Service,Business,773,Germany,EMEA Division,Public Company,Ashgrove Property Trust,Franchised,Tamsin Lodging Co.,
+SALNO,Northvale Salt Lake City Downtown,Northvale Hotels,Open,Full Service,Resort,578,United States,Americas Division,Institutional Fund,Wexford Development LLC,Managed,Northvale Hotel Group,Chris Okafor
+SAMQE,Vale Place Santiago Airport,Vale Place,Open,Select Service,Business,134,Chile,Americas Division,REIT,Verity Real Estate Partners,Franchised,Quillfield Hotel Management,Jordan Moreau
+PHUSO,Solace Retreats Phuket,Solace Retreats,Open,Wellness,Urban,62,Thailand,APAC Division,Private Company,Meadowbank Property Trust,Managed,Northvale Hotel Group,Grace Fairbanks
+SEASO,Solace Retreats Seattle,Solace Retreats,Pipeline,Wellness,Urban,111,United States,Americas Division,Public Company,Meadowbank Investments Ltd.,Managed,Northvale Hotel Group,Grace Fairbanks
+SINSO,Solace Retreats Singapore,Solace Retreats,Open,Wellness,Business,77,Singapore,APAC Division,Public Company,Harrow Real Estate Partners,Managed,Northvale Hotel Group,Mei Castillo
+CAPNO,Northvale Cape Town,Northvale Hotels,Open,Full Service,Urban,536,South Africa,EMEA Division,Private Company,Birchgate Capital LLC,Managed,Northvale Hotel Group,
+DANHO,Vale House Da Nang,Vale House,Open,Select Service,Urban,177,Vietnam,APAC Division,Private Individual,Verity Property Trust,Franchised,Tamsin Lodging Co.,Mei Castillo
+SEUWW,Vale Place Seoul Beach,Vale Place,Open,Select Service,Business,183,South Korea,APAC Division,Public Company,Harrow Capital LLC,Managed,Northvale Hotel Group,Tomas Okafor
+SAZII,Vale Place Sao Paulo Uptown,Vale Place,Open,Select Service,Business,210,Brazil,Americas Division,REIT,Calder Property Trust,Franchised,Larkspur Management Ltd.,Aisha Okafor
+MEGUW,Vale Place Medellin North,Vale Place,Open,Select Service,Business,210,Colombia,Americas Division,Private Individual,Redfern Development LLC,Managed,Northvale Hotel Group,Jordan Castillo
+SEPVG,Vale Place Seoul Harbor,Vale Place,Open,Select Service,Business,218,South Korea,APAC Division,Private Individual,Sterling Vale Investments Ltd.,Franchised,Sableridge Hotel Partners,Jordan Lindqvist
+MODEM,Tidewater Resorts Montreal Resort,Tidewater Resorts,Open,All Inclusive,Resort,250,Canada,Americas Division,Private Individual,Meadowbank Investments Ltd.,Franchised,Aldermoor Hospitality,Tomas Okafor
+MEXGR,Northvale Grand Mexico City,Northvale Grand,Open,Full Service,Urban,394,Mexico,Americas Division,Public Company,Pemberly Investments Ltd.,Franchised,Brightwater Operating Group,Mei Castillo
+KUASO,Solace Retreats Kuala Lumpur,Solace Retreats,Open,Wellness,Urban,41,Malaysia,APAC Division,Institutional Fund,Castellan Capital LLC,Managed,Northvale Hotel Group,
+NISLU,Lumen Niseko,Lumen Hotels,Open,Lifestyle,Business,500,Japan,Lifestyle Division,Institutional Fund,Verity Investments Ltd.,Managed,Northvale Hotel Group,Laura Nakamura
+TORKE,Kestrel Reserve Toronto,Kestrel Reserve,Closed,Luxury,Business,214,Canada,Americas Division,Private Individual,Castellan Development LLC,Managed,Northvale Hotel Group,Jordan Castillo
+SHEHO,Vale House Shenzhen Airport,Vale House,Open,Select Service,Resort,150,China,APAC Division,Private Individual,Thornbury Capital LLC,Franchised,Corvel Hospitality,Grace Fairbanks
+LONCL,Northvale Vacation Club London,Northvale Vacation Club,Open,Timeshare,Urban,143,United Kingdom,EMEA Division,Public Company,Redfern Capital LLC,Managed,Northvale Hotel Group,Chris Okafor
+DOHPL,Vale Place Doha Beach,Vale Place,Open,Select Service,Urban,100,Qatar,EMEA Division,Public Company,Redfern Investments Ltd.,Franchised,Tamsin Lodging Co.,Jordan Moreau
+OTSVQ,Vale Place Ottawa Downtown,Vale Place,Open,Select Service,Business,151,Canada,Americas Division,Public Company,Ashgrove Hotel Holdings,Managed,Northvale Hotel Group,Jordan Lindqvist
+GOMWF,Vale Place Goa Central,Vale Place,Open,Select Service,Resort,183,India,APAC Division,Private Company,Birchgate Capital LLC,Managed,Northvale Hotel Group,Tomas Okafor
+LONHO,Vale House London Downtown,Vale House,Open,Select Service,Urban,213,United Kingdom,EMEA Division,Private Company,Verity Development LLC,Franchised,Tamsin Lodging Co.,
+SAVMD,Vale Place Santiago,Vale Place,Open,Select Service,Business,91,Chile,Americas Division,Public Company,Oriel Investments Ltd.,Franchised,Tamsin Lodging Co.,Jordan Moreau
+DALHO,Vale House Dallas,Vale House,Closed,Select Service,Business,119,United States,Americas Division,REIT,Kingsmere Real Estate Partners,Franchised,Quillfield Hotel Management,Jordan Castillo
+JAKCL,Northvale Vacation Club Jakarta,Northvale Vacation Club,Open,Timeshare,Resort,89,Indonesia,APAC Division,Private Individual,Thornbury Real Estate Partners,Franchised,Ninefold Hotel Services,Ryan Ivanova
+LOSHO,Vale House Los Cabos Waterfront,Vale House,Open,Select Service,Urban,216,Mexico,Americas Division,Institutional Fund,Oriel Hotel Holdings,Franchised,Tamsin Lodging Co.,Ryan Ivanova
+CARCL,Northvale Vacation Club Cartagena,Northvale Vacation Club,Open,Timeshare,Resort,213,Colombia,Americas Division,Private Company,Castellan Real Estate Partners,Managed,Northvale Hotel Group,Jordan Moreau
+PHUAR,The Archive Collection Phuket,The Archive Collection,Open,Lifestyle,Urban,877,Thailand,Lifestyle Division,Institutional Fund,Ellison Real Estate Partners,Managed,Northvale Hotel Group,
+CAFSM,Northvale Cape Town Beach,Northvale Hotels,Open,Full Service,Urban,627,South Africa,EMEA Division,Public Company,Lowell Development LLC,Managed,Northvale Hotel Group,
+ANCAR,The Archive Collection Anchorage,The Archive Collection,Open,Lifestyle,Urban,287,United States,Lifestyle Division,Private Individual,Lowell Capital LLC,Managed,Northvale Hotel Group,Priya Moreau
+HANKD,The Archive Collection Hanoi,The Archive Collection,Open,Lifestyle,Urban,468,Vietnam,Lifestyle Division,REIT,Ashgrove Real Estate Partners,Managed,Northvale Hotel Group,Ryan Ivanova
+KYXFI,Vale Place Kyoto Harbor,Vale Place,Open,Select Service,Resort,100,Japan,APAC Division,Institutional Fund,Thornbury Real Estate Partners,Managed,Northvale Hotel Group,Grace Fairbanks
+LIMSO,Solace Retreats Lima,Solace Retreats,Closed,Wellness,Urban,87,Peru,Americas Division,Private Individual,Lowell Real Estate Partners,Managed,Northvale Hotel Group,Priya Ivanova
+CALSO,Solace Retreats Calgary,Solace Retreats,Open,Wellness,Urban,49,Canada,Americas Division,Private Company,Castellan Real Estate Partners,Managed,Northvale Hotel Group,Tomas Okafor
+SASFM,Northvale Santiago Riverfront,Northvale Hotels,Open,Full Service,Urban,659,Chile,Americas Division,Private Company,Castellan Property Trust,Franchised,Brightwater Operating Group,
+NICSO,Solace Retreats Nice,Solace Retreats,Open,Wellness,Urban,70,France,EMEA Division,REIT,Kingsmere Hotel Holdings,Managed,Northvale Hotel Group,Priya Moreau
+JEXZB,Northvale Jeddah Downtown,Northvale Hotels,Open,Full Service,Urban,296,Saudi Arabia,EMEA Division,REIT,Thornbury Investments Ltd.,Managed,Northvale Hotel Group,
+MUMNO,Northvale Mumbai Midtown,Northvale Hotels,Open,Full Service,Urban,336,India,APAC Division,Public Company,Redfern Capital LLC,Managed,Northvale Hotel Group,
+MILPL,Vale Place Milwaukee Central,Vale Place,Open,Select Service,Business,173,United States,Americas Division,Private Company,Calder Development LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+TOKPL,Vale Place Tokyo Riverfront,Vale Place,Open,Select Service,Business,114,Japan,APAC Division,Public Company,Thornbury Investments Ltd.,Managed,Northvale Hotel Group,
+TOBTH,Vale House Toronto Waterfront,Vale House,Open,Select Service,Business,181,Canada,Americas Division,Private Individual,Ellison Investments Ltd.,Franchised,Tamsin Lodging Co.,Priya Abernathy
+MAVPA,Vale Place Manila Uptown,Vale Place,Open,Select Service,Urban,170,Philippines,APAC Division,Institutional Fund,Lowell Property Trust,Managed,Northvale Hotel Group,
+TULGR,Northvale Grand Tulum,Northvale Grand,Open,Full Service,Business,691,Mexico,Americas Division,REIT,Ashgrove Real Estate Partners,Managed,Northvale Hotel Group,Jordan Castillo
+RIYKE,Kestrel Reserve Riyadh,Kestrel Reserve,Open,Luxury,Resort,241,Saudi Arabia,EMEA Division,Institutional Fund,Harrow Capital LLC,Managed,Northvale Hotel Group,
+GUOYO,Northvale Guanacaste Waterfront,Northvale Hotels,Open,Full Service,Resort,540,Costa Rica,Americas Division,Public Company,Ellison Property Trust,Franchised,Aldermoor Hospitality,
+CANLU,Lumen Cancun,Lumen Hotels,Open,Lifestyle,Business,791,Mexico,Lifestyle Division,Private Company,Ellison Capital LLC,Managed,Northvale Hotel Group,Priya Ivanova
+NICTI,Tidewater Resorts Nice Resort,Tidewater Resorts,Closed,All Inclusive,Resort,348,France,EMEA Division,Private Company,Verity Property Trust,Managed,Northvale Hotel Group,
+PORLU,Lumen Porto,Lumen Hotels,Open,Lifestyle,Resort,812,Portugal,Lifestyle Division,Private Individual,Castellan Investments Ltd.,Managed,Northvale Hotel Group,Priya Moreau
+CAGHF,Vale Place Cartagena Midtown,Vale Place,Closed,Select Service,Urban,148,Colombia,Americas Division,REIT,Oriel Real Estate Partners,Franchised,Larkspur Management Ltd.,Ryan Ivanova
+SAVGR,Northvale Grand Savannah,Northvale Grand,Open,Full Service,Business,267,United States,Americas Division,Private Company,Lowell Hotel Holdings,Franchised,Corvel Hospitality,Grace Fairbanks
+SAOSO,Solace Retreats Sao Paulo,Solace Retreats,Open,Wellness,Business,56,Brazil,Americas Division,Public Company,Wexford Capital LLC,Managed,Northvale Hotel Group,Priya Ivanova
+JEDSO,Solace Retreats Jeddah,Solace Retreats,Open,Wellness,Resort,49,Saudi Arabia,EMEA Division,Public Company,Oriel Property Trust,Managed,Northvale Hotel Group,
+CAJOT,Vale House Cartagena Convention Center,Vale House,Open,Select Service,Business,220,Colombia,Americas Division,Private Individual,Meadowbank Capital LLC,Franchised,Corvel Hospitality,Priya Moreau
+TOODM,Northvale Toronto Airport,Northvale Hotels,Pipeline,Full Service,Business,795,Canada,Americas Division,REIT,Meadowbank Development LLC,Managed,Northvale Hotel Group,
+BUQRB,Vale Place Busan Central,Vale Place,Open,Select Service,Urban,218,South Korea,APAC Division,Private Individual,Harrow Hotel Holdings,Managed,Northvale Hotel Group,Tomas Okafor
+DENAR,The Archive Collection Denver,The Archive Collection,Open,Lifestyle,Resort,359,United States,Lifestyle Division,Public Company,Redfern Real Estate Partners,Managed,Northvale Hotel Group,
+BAWSZ,Vale Place Bali Riverfront,Vale Place,Open,Select Service,Resort,197,Indonesia,APAC Division,Private Company,Kingsmere Property Trust,Franchised,Ninefold Hotel Services,Jordan Abernathy
+BRIHO,Vale House Brisbane Waterfront,Vale House,Open,Select Service,Urban,200,Australia,APAC Division,REIT,Calder Investments Ltd.,Franchised,Quillfield Hotel Management,Chris Okafor
+DOOSQ,Vale Place Doha Uptown,Vale Place,Open,Select Service,Business,213,Qatar,EMEA Division,REIT,Ashgrove Hotel Holdings,Franchised,Sableridge Hotel Partners,
+ATHAR,The Archive Collection Athens,The Archive Collection,Open,Lifestyle,Business,802,Greece,Lifestyle Division,Institutional Fund,Kingsmere Development LLC,Franchised,Quillfield Hotel Management,
+SABKB,The Archive Collection Sanya,The Archive Collection,Open,Lifestyle,Resort,438,China,Lifestyle Division,Private Company,Pemberly Hotel Holdings,Franchised,Quillfield Hotel Management,Priya Ivanova
+PARNO,Northvale Paris Central,Northvale Hotels,Open,Full Service,Business,369,France,EMEA Division,Institutional Fund,Wexford Hotel Holdings,Franchised,Aldermoor Hospitality,Chris Okafor
+MEMYK,Northvale Medellin Central,Northvale Hotels,Open,Full Service,Resort,744,Colombia,Americas Division,Private Company,Redfern Development LLC,Managed,Northvale Hotel Group,Jordan Lindqvist
+MANGR,Northvale Grand Manila,Northvale Grand,Open,Full Service,Urban,733,Philippines,APAC Division,Private Company,Birchgate Development LLC,Franchised,Sableridge Hotel Partners,
+MAKUW,Vale Place Manila Downtown,Vale Place,Open,Select Service,Business,111,Philippines,APAC Division,REIT,Castellan Property Trust,Franchised,Quillfield Hotel Management,Priya Abernathy
+PORNO,Northvale Porto,Northvale Hotels,Open,Full Service,Resort,482,Portugal,EMEA Division,Private Individual,Ellison Property Trust,Franchised,Corvel Hospitality,
+GENTI,Tidewater Resorts Geneva Resort,Tidewater Resorts,Open,All Inclusive,Resort,324,Switzerland,EMEA Division,Public Company,Harrow Development LLC,Managed,Northvale Hotel Group,Jordan Moreau
+MOROW,Vale House Montego Bay,Vale House,Open,Select Service,Business,114,Jamaica,Americas Division,Institutional Fund,Birchgate Capital LLC,Managed,Northvale Hotel Group,Jordan Moreau
+MEDSO,Solace Retreats Medellin,Solace Retreats,Open,Wellness,Business,63,Colombia,Americas Division,Private Company,Kingsmere Development LLC,Managed,Northvale Hotel Group,
+OTTSP,Vale Place Ottawa Central,Vale Place,Open,Select Service,Urban,212,Canada,Americas Division,REIT,Lowell Hotel Holdings,Franchised,Tamsin Lodging Co.,Priya Ivanova
+KANTI,Tidewater Resorts Kansas City Resort,Tidewater Resorts,Open,All Inclusive,Resort,611,United States,Americas Division,Private Individual,Ashgrove Development LLC,Managed,Northvale Hotel Group,
+TOYCD,Northvale Toronto Riverfront,Northvale Hotels,Closed,Full Service,Urban,358,Canada,Americas Division,Public Company,Pemberly Property Trust,Franchised,Tamsin Lodging Co.,
+MAULO,Northvale Manchester,Northvale Hotels,Open,Full Service,Resort,721,United Kingdom,EMEA Division,REIT,Sterling Vale Hotel Holdings,Franchised,Quillfield Hotel Management,
+MOTNX,Vale House Montego Bay Beach,Vale House,Open,Select Service,Business,186,Jamaica,Americas Division,Public Company,Lowell Capital LLC,Managed,Northvale Hotel Group,Chris Okafor
+CANNO,Northvale Cancun North,Northvale Hotels,Open,Full Service,Resort,218,Mexico,Americas Division,REIT,Pemberly Capital LLC,Franchised,Aldermoor Hospitality,Mei Castillo
+MAIND,Northvale Manchester Midtown,Northvale Hotels,Open,Full Service,Resort,254,United Kingdom,EMEA Division,REIT,Lowell Capital LLC,Managed,Northvale Hotel Group,
+MESIA,Vale Place Mexico City Harbor,Vale Place,Open,Select Service,Urban,112,Mexico,Americas Division,Public Company,Wexford Investments Ltd.,Managed,Northvale Hotel Group,Tomas Okafor
+QUETI,Tidewater Resorts Queenstown Resort,Tidewater Resorts,Open,All Inclusive,Resort,326,New Zealand,APAC Division,Institutional Fund,Verity Development LLC,Managed,Northvale Hotel Group,Mei Castillo
+OTTAR,The Archive Collection Ottawa,The Archive Collection,Closed,Lifestyle,Urban,679,Canada,Lifestyle Division,REIT,Oriel Hotel Holdings,Managed,Northvale Hotel Group,Jordan Moreau
+MANOL,Northvale Malaga Old Town,Northvale Hotels,Open,Full Service,Urban,491,Spain,EMEA Division,Public Company,Castellan Property Trust,Managed,Northvale Hotel Group,
+SYDGR,Northvale Grand Sydney,Northvale Grand,Open,Full Service,Business,583,Australia,APAC Division,Public Company,Oriel Development LLC,Franchised,Ninefold Hotel Services,Priya Ivanova
+PUGVA,Northvale Punta Cana Old Town,Northvale Hotels,Open,Full Service,Urban,443,Dominican Republic,Americas Division,Institutional Fund,Sterling Vale Real Estate Partners,Franchised,Larkspur Management Ltd.,Priya Ivanova
+DOBCG,Vale Place Doha,Vale Place,Open,Select Service,Urban,202,Qatar,EMEA Division,Institutional Fund,Oriel Hotel Holdings,Franchised,Quillfield Hotel Management,Priya Abernathy
+MONSO,Solace Retreats Montego Bay,Solace Retreats,Pipeline,Wellness,Business,63,Jamaica,Americas Division,Institutional Fund,Castellan Real Estate Partners,Managed,Northvale Hotel Group,Jordan Abernathy
+TOOYI,Vale House Toronto Old Town,Vale House,Open,Select Service,Business,162,Canada,Americas Division,Public Company,Verity Hotel Holdings,Managed,Northvale Hotel Group,Priya Ivanova
+BENTI,Tidewater Resorts Bengaluru Resort,Tidewater Resorts,Open,All Inclusive,Resort,397,India,APAC Division,Public Company,Lowell Capital LLC,Managed,Northvale Hotel Group,
+QUENO,Northvale Queenstown,Northvale Hotels,Open,Full Service,Business,700,New Zealand,APAC Division,Public Company,Meadowbank Hotel Holdings,Managed,Northvale Hotel Group,Aisha Okafor
+AUCTI,Tidewater Resorts Auckland Resort,Tidewater Resorts,Open,All Inclusive,Resort,583,New Zealand,APAC Division,Institutional Fund,Wexford Capital LLC,Managed,Northvale Hotel Group,
+KULUT,Northvale Kuala Lumpur,Northvale Hotels,Open,Full Service,Business,668,Malaysia,APAC Division,REIT,Redfern Development LLC,Managed,Northvale Hotel Group,Jordan Castillo
+MYLKR,Vale Place Mykonos Harbor,Vale Place,Open,Select Service,Resort,220,Greece,EMEA Division,Institutional Fund,Ellison Property Trust,Franchised,Larkspur Management Ltd.,
+MAKHF,Vale Place Marrakech,Vale Place,Open,Select Service,Urban,169,Morocco,EMEA Division,Public Company,Calder Hotel Holdings,Franchised,Brightwater Operating Group,
+BANLU,Lumen Bangkok,Lumen Hotels,Open,Lifestyle,Business,538,Thailand,Lifestyle Division,Public Company,Kingsmere Development LLC,Managed,Northvale Hotel Group,Ryan Ivanova
+PORTI,Tidewater Resorts Porto Resort,Tidewater Resorts,Open,All Inclusive,Resort,424,Portugal,EMEA Division,REIT,Lowell Property Trust,Managed,Northvale Hotel Group,Chris Okafor
+PUVFS,Vale Place Punta Cana Downtown,Vale Place,Open,Select Service,Urban,193,Dominican Republic,Americas Division,REIT,Harrow Development LLC,Franchised,Aldermoor Hospitality,Mei Castillo
+ZURPL,Vale Place Zurich Harbor,Vale Place,Open,Select Service,Business,144,Switzerland,EMEA Division,REIT,Oriel Capital LLC,Managed,Northvale Hotel Group,
+DUVAH,Northvale Grand Dubai,Northvale Grand,Open,Full Service,Business,281,United Arab Emirates,EMEA Division,Institutional Fund,Birchgate Investments Ltd.,Franchised,Tamsin Lodging Co.,Grace Fairbanks
+KUUPS,Northvale Kuala Lumpur North,Northvale Hotels,Open,Full Service,Business,382,Malaysia,APAC Division,Public Company,Ellison Property Trust,Managed,Northvale Hotel Group,Grace Fairbanks
+DAFUA,Vale House Dallas Convention Center,Vale House,Open,Select Service,Urban,206,United States,Americas Division,REIT,Birchgate Capital LLC,Franchised,Tamsin Lodging Co.,
+TULHO,Vale House Tulum Airport,Vale House,Open,Select Service,Resort,136,Mexico,Americas Division,Private Individual,Wexford Development LLC,Managed,Northvale Hotel Group,Priya Ivanova
+MIPEC,Vale Place Milan,Vale Place,Open,Select Service,Resort,155,Italy,EMEA Division,Private Individual,Wexford Development LLC,Franchised,Ninefold Hotel Services,
+MAIXH,Northvale Grand Manchester,Northvale Grand,Open,Full Service,Business,701,United Kingdom,EMEA Division,Institutional Fund,Castellan Development LLC,Franchised,Corvel Hospitality,Jordan Abernathy
+MUNHO,Vale House Munich Airport,Vale House,Open,Select Service,Business,166,Germany,EMEA Division,Institutional Fund,Calder Investments Ltd.,Managed,Northvale Hotel Group,Priya Ivanova
+CASUU,Northvale Cairo Beach,Northvale Hotels,Open,Full Service,Resort,744,Egypt,EMEA Division,Institutional Fund,Harrow Property Trust,Franchised,Quillfield Hotel Management,Priya Ivanova
+MOBKV,Vale Place Montego Bay Convention Center,Vale Place,Open,Select Service,Resort,161,Jamaica,Americas Division,Private Individual,Harrow Property Trust,Managed,Northvale Hotel Group,Grace Fairbanks
+MAIYD,Northvale Manchester Riverfront,Northvale Hotels,Pipeline,Full Service,Business,538,United Kingdom,EMEA Division,Institutional Fund,Meadowbank Investments Ltd.,Franchised,Larkspur Management Ltd.,
+ZURSO,Solace Retreats Zurich,Solace Retreats,Open,Wellness,Urban,101,Switzerland,EMEA Division,Public Company,Lowell Investments Ltd.,Managed,Northvale Hotel Group,
+DOHGR,Northvale Grand Doha,Northvale Grand,Open,Full Service,Resort,545,Qatar,EMEA Division,Private Individual,Birchgate Investments Ltd.,Managed,Northvale Hotel Group,
+HANLU,Lumen Hanoi,Lumen Hotels,Closed,Lifestyle,Resort,527,Vietnam,Lifestyle Division,Private Company,Pemberly Hotel Holdings,Franchised,Larkspur Management Ltd.,Aisha Okafor
+BAJVG,Northvale Bali,Northvale Hotels,Open,Full Service,Urban,193,Indonesia,APAC Division,Institutional Fund,Castellan Property Trust,Managed,Northvale Hotel Group,
+MARKE,Kestrel Reserve Marrakech,Kestrel Reserve,Open,Luxury,Urban,257,Morocco,EMEA Division,REIT,Thornbury Real Estate Partners,Managed,Northvale Hotel Group,Priya Abernathy
+BALCL,Northvale Vacation Club Bali,Northvale Vacation Club,Open,Timeshare,Business,176,Indonesia,APAC Division,Institutional Fund,Redfern Investments Ltd.,Franchised,Larkspur Management Ltd.,Grace Fairbanks
+TUBFM,Vale House Tulum,Vale House,Open,Select Service,Urban,170,Mexico,Americas Division,Public Company,Calder Capital LLC,Franchised,Tamsin Lodging Co.,Chris Okafor
+SALKW,Vale House Santiago Airport,Vale House,Open,Select Service,Urban,106,Chile,Americas Division,Private Individual,Harrow Hotel Holdings,Franchised,Larkspur Management Ltd.,Laura Nakamura
+DENPL,Vale Place Denver,Vale Place,Open,Select Service,Urban,200,United States,Americas Division,Private Company,Ellison Development LLC,Managed,Northvale Hotel Group,Tomas Okafor
+DOBYY,Vale Place Doha Midtown,Vale Place,Pipeline,Select Service,Resort,150,Qatar,EMEA Division,Private Company,Ashgrove Hotel Holdings,Franchised,Sableridge Hotel Partners,Grace Fairbanks
+ALBNO,Northvale Albuquerque Beach,Northvale Hotels,Open,Full Service,Resort,869,United States,Americas Division,Institutional Fund,Sterling Vale Real Estate Partners,Managed,Northvale Hotel Group,Ryan Ivanova
+PITNO,Northvale Pittsburgh North,Northvale Hotels,Open,Full Service,Urban,881,United States,Americas Division,Public Company,Birchgate Real Estate Partners,Franchised,Larkspur Management Ltd.,
+ALBPL,Vale Place Albuquerque,Vale Place,Open,Select Service,Business,94,United States,Americas Division,REIT,Birchgate Capital LLC,Franchised,Tamsin Lodging Co.,Priya Ivanova
+DAZXB,Northvale Da Nang Beach,Northvale Hotels,Open,Full Service,Resort,416,Vietnam,APAC Division,REIT,Sterling Vale Capital LLC,Franchised,Sableridge Hotel Partners,
+SCOGR,Northvale Grand Scottsdale,Northvale Grand,Open,Full Service,Urban,765,United States,Americas Division,Institutional Fund,Calder Property Trust,Managed,Northvale Hotel Group,Grace Fairbanks
+ABULU,Lumen Abu Dhabi,Lumen Hotels,Open,Lifestyle,Urban,531,United Arab Emirates,Lifestyle Division,REIT,Castellan Development LLC,Managed,Northvale Hotel Group,Mei Castillo
+SEAPL,Vale Place Seattle Midtown,Vale Place,Open,Select Service,Urban,214,United States,Americas Division,REIT,Verity Investments Ltd.,Franchised,Corvel Hospitality,Priya Ivanova
+CAIAR,The Archive Collection Cairo,The Archive Collection,Open,Lifestyle,Business,845,Egypt,Lifestyle Division,Institutional Fund,Harrow Property Trust,Franchised,Sableridge Hotel Partners,Priya Abernathy
+BEIHO,Vale House Beijing Harbor,Vale House,Open,Select Service,Urban,190,China,APAC Division,Institutional Fund,Wexford Property Trust,Franchised,Brightwater Operating Group,Mei Castillo
+BALLU,Lumen Bali,Lumen Hotels,Open,Lifestyle,Resort,635,Indonesia,Lifestyle Division,Public Company,Meadowbank Development LLC,Managed,Northvale Hotel Group,Aisha Okafor
+GUGMS,The Archive Collection Guadalajara,The Archive Collection,Open,Lifestyle,Urban,663,Mexico,Lifestyle Division,Institutional Fund,Birchgate Capital LLC,Franchised,Brightwater Operating Group,Priya Moreau
+TOKNO,Northvale Tokyo,Northvale Hotels,Open,Full Service,Urban,509,Japan,APAC Division,Public Company,Harrow Real Estate Partners,Managed,Northvale Hotel Group,
+JEDCL,Northvale Vacation Club Jeddah,Northvale Vacation Club,Open,Timeshare,Business,153,Saudi Arabia,EMEA Division,REIT,Pemberly Development LLC,Managed,Northvale Hotel Group,Priya Abernathy
+GOAAR,The Archive Collection Goa,The Archive Collection,Open,Lifestyle,Urban,612,India,Lifestyle Division,Public Company,Ashgrove Development LLC,Managed,Northvale Hotel Group,
+KUNJA,Northvale Kuala Lumpur Midtown,Northvale Hotels,Open,Full Service,Urban,196,Malaysia,APAC Division,Public Company,Harrow Development LLC,Franchised,Corvel Hospitality,Aisha Okafor
+ISMMM,Northvale Istanbul,Northvale Hotels,Open,Full Service,Urban,778,Turkey,EMEA Division,REIT,Redfern Development LLC,Franchised,Ninefold Hotel Services,Grace Fairbanks
+SAGBQ,The Archive Collection Sao Paulo,The Archive Collection,Open,Lifestyle,Urban,487,Brazil,Lifestyle Division,Institutional Fund,Pemberly Real Estate Partners,Franchised,Larkspur Management Ltd.,Grace Fairbanks
+HONCL,Northvale Vacation Club Honolulu,Northvale Vacation Club,Open,Timeshare,Urban,229,United States,Americas Division,Private Individual,Lowell Property Trust,Franchised,Ninefold Hotel Services,Jordan Castillo
+SIDFR,Northvale Singapore,Northvale Hotels,Open,Full Service,Resort,700,Singapore,APAC Division,Institutional Fund,Wexford Hotel Holdings,Managed,Northvale Hotel Group,
+PHBSP,Vale Place Phuket Central,Vale Place,Pipeline,Select Service,Urban,186,Thailand,APAC Division,REIT,Ellison Investments Ltd.,Franchised,Quillfield Hotel Management,Jordan Moreau
+MARLU,Lumen Marrakech,Lumen Hotels,Open,Lifestyle,Resort,597,Morocco,Lifestyle Division,Public Company,Thornbury Property Trust,Managed,Northvale Hotel Group,Mei Castillo
+SIEHJ,Northvale Singapore Waterfront,Northvale Hotels,Open,Full Service,Resort,333,Singapore,APAC Division,Public Company,Ellison Property Trust,Franchised,Larkspur Management Ltd.,
+NISTI,Tidewater Resorts Niseko Resort,Tidewater Resorts,Open,All Inclusive,Resort,453,Japan,APAC Division,Public Company,Redfern Investments Ltd.,Managed,Northvale Hotel Group,Jordan Lindqvist
+OTGQQ,Vale Place Ottawa,Vale Place,Open,Select Service,Urban,213,Canada,Americas Division,REIT,Wexford Real Estate Partners,Managed,Northvale Hotel Group,
+SINTI,Tidewater Resorts Singapore Resort,Tidewater Resorts,Open,All Inclusive,Resort,570,Singapore,APAC Division,Private Individual,Meadowbank Property Trust,Franchised,Tamsin Lodging Co.,
+LINUS,Vale Place Lima Waterfront,Vale Place,Open,Select Service,Urban,162,Peru,Americas Division,Institutional Fund,Ellison Development LLC,Franchised,Tamsin Lodging Co.,Jordan Lindqvist
+HAWIN,Vale Place Hanoi Airport,Vale Place,Open,Select Service,Business,154,Vietnam,APAC Division,Private Individual,Ellison Investments Ltd.,Franchised,Aldermoor Hospitality,Tomas Okafor
+ATLPL,Vale Place Atlanta Riverfront,Vale Place,Open,Select Service,Urban,208,United States,Americas Division,Institutional Fund,Harrow Investments Ltd.,Franchised,Brightwater Operating Group,Jordan Castillo
+SANZQ,Northvale Vacation Club Sanya,Northvale Vacation Club,Pipeline,Timeshare,Urban,226,China,APAC Division,Private Individual,Birchgate Investments Ltd.,Franchised,Quillfield Hotel Management,
+SAOKE,Kestrel Reserve Sao Paulo,Kestrel Reserve,Open,Luxury,Business,173,Brazil,Americas Division,Public Company,Wexford Hotel Holdings,Managed,Northvale Hotel Group,Priya Ivanova
+PUOYY,Northvale Punta Cana Midtown,Northvale Hotels,Open,Full Service,Business,850,Dominican Republic,Americas Division,Private Company,Redfern Hotel Holdings,Managed,Northvale Hotel Group,Aisha Okafor
+BERCE,Vale Place Bengaluru North,Vale Place,Open,Select Service,Resort,161,India,APAC Division,Private Individual,Lowell Investments Ltd.,Franchised,Larkspur Management Ltd.,
+HABDR,Northvale Hamburg,Northvale Hotels,Open,Full Service,Business,349,Germany,EMEA Division,REIT,Wexford Property Trust,Managed,Northvale Hotel Group,Priya Ivanova
+RIYLU,Lumen Riyadh,Lumen Hotels,Open,Lifestyle,Urban,742,Saudi Arabia,Lifestyle Division,Private Individual,Castellan Real Estate Partners,Managed,Northvale Hotel Group,
+QUELU,Lumen Queenstown,Lumen Hotels,Closed,Lifestyle,Business,288,New Zealand,Lifestyle Division,Institutional Fund,Kingsmere Development LLC,Managed,Northvale Hotel Group,Priya Abernathy
+MODGJ,Vale Place Montego Bay Midtown,Vale Place,Open,Select Service,Urban,172,Jamaica,Americas Division,Institutional Fund,Ellison Investments Ltd.,Franchised,Sableridge Hotel Partners,
+TUDIJ,Vale House Tulum Old Town,Vale House,Open,Select Service,Business,136,Mexico,Americas Division,Private Individual,Verity Hotel Holdings,Franchised,Sableridge Hotel Partners,Jordan Moreau
+JEDTI,Tidewater Resorts Jeddah Resort,Tidewater Resorts,Closed,All Inclusive,Resort,696,Saudi Arabia,EMEA Division,Institutional Fund,Sterling Vale Real Estate Partners,Managed,Northvale Hotel Group,Jordan Moreau
+TUYGR,Vale Place Tulum Uptown,Vale Place,Open,Select Service,Urban,112,Mexico,Americas Division,Public Company,Verity Property Trust,Franchised,Corvel Hospitality,Jordan Abernathy
+DELAR,The Archive Collection Delhi,The Archive Collection,Open,Lifestyle,Resort,815,India,Lifestyle Division,Private Individual,Redfern Development LLC,Managed,Northvale Hotel Group,
+MUNPL,Vale Place Munich Downtown,Vale Place,Open,Select Service,Urban,124,Germany,EMEA Division,Private Company,Birchgate Property Trust,Franchised,Corvel Hospitality,Jordan Castillo
+JAKLU,Lumen Jakarta,Lumen Hotels,Pipeline,Lifestyle,Resort,496,Indonesia,Lifestyle Division,Private Company,Verity Investments Ltd.,Franchised,Quillfield Hotel Management,Ryan Ivanova
+CACAY,Vale Place Cape Town Uptown,Vale Place,Open,Select Service,Business,110,South Africa,EMEA Division,REIT,Harrow Hotel Holdings,Managed,Northvale Hotel Group,Jordan Moreau
+SIPEQ,Northvale Singapore Convention Center,Northvale Hotels,Open,Full Service,Business,449,Singapore,APAC Division,Institutional Fund,Oriel Capital LLC,Managed,Northvale Hotel Group,Jordan Moreau
+CAFTU,Northvale Cartagena Waterfront,Northvale Hotels,Open,Full Service,Resort,853,Colombia,Americas Division,Public Company,Redfern Property Trust,Managed,Northvale Hotel Group,Grace Fairbanks
+GURXM,Vale House Guanacaste Waterfront,Vale House,Open,Select Service,Urban,211,Costa Rica,Americas Division,Private Company,Wexford Property Trust,Franchised,Sableridge Hotel Partners,Priya Ivanova
+SYDAR,The Archive Collection Sydney,The Archive Collection,Open,Lifestyle,Resort,697,Australia,Lifestyle Division,Institutional Fund,Harrow Real Estate Partners,Franchised,Ninefold Hotel Services,Priya Abernathy
+MUMGR,Northvale Grand Mumbai,Northvale Grand,Open,Full Service,Business,656,India,APAC Division,Public Company,Kingsmere Hotel Holdings,Managed,Northvale Hotel Group,Jordan Castillo
+MYXUM,Northvale Mykonos Convention Center,Northvale Hotels,Open,Full Service,Urban,624,Greece,EMEA Division,Private Individual,Castellan Capital LLC,Managed,Northvale Hotel Group,
+AMIBI,Northvale Amsterdam,Northvale Hotels,Open,Full Service,Urban,532,Netherlands,EMEA Division,REIT,Kingsmere Real Estate Partners,Franchised,Sableridge Hotel Partners,Jordan Lindqvist
+POZUN,Vale Place Porto Old Town,Vale Place,Open,Select Service,Urban,112,Portugal,EMEA Division,REIT,Thornbury Investments Ltd.,Managed,Northvale Hotel Group,Priya Moreau
+MANIZ,Northvale Manila Harbor,Northvale Hotels,Open,Full Service,Business,573,Philippines,APAC Division,Public Company,Harrow Property Trust,Franchised,Ninefold Hotel Services,Laura Nakamura
+PHUGR,Northvale Grand Phuket,Northvale Grand,Open,Full Service,Business,589,Thailand,APAC Division,Public Company,Sterling Vale Investments Ltd.,Managed,Northvale Hotel Group,Laura Nakamura
+BALMQ,Vale Place Bali Downtown,Vale Place,Closed,Select Service,Business,212,Indonesia,APAC Division,Private Company,Lowell Real Estate Partners,Managed,Northvale Hotel Group,
+SAVAR,The Archive Collection Savannah,The Archive Collection,Open,Lifestyle,Urban,205,United States,Lifestyle Division,Institutional Fund,Ellison Property Trust,Managed,Northvale Hotel Group,Jordan Moreau
+OTMME,Vale Place Ottawa Midtown,Vale Place,Open,Select Service,Business,92,Canada,Americas Division,REIT,Redfern Property Trust,Franchised,Larkspur Management Ltd.,Priya Ivanova
+JAKAR,The Archive Collection Jakarta,The Archive Collection,Open,Lifestyle,Urban,350,Indonesia,Lifestyle Division,Institutional Fund,Ellison Investments Ltd.,Managed,Northvale Hotel Group,Chris Okafor
+SAVTJ,Vale Place Santiago North,Vale Place,Open,Select Service,Urban,121,Chile,Americas Division,Institutional Fund,Kingsmere Hotel Holdings,Franchised,Tamsin Lodging Co.,Tomas Okafor
+BEPCS,Vale Place Berlin Airport,Vale Place,Closed,Select Service,Business,219,Germany,EMEA Division,REIT,Wexford Investments Ltd.,Franchised,Aldermoor Hospitality,Jordan Abernathy
+DUBUZ,Vale Place Dublin Convention Center,Vale Place,Open,Select Service,Resort,201,Ireland,EMEA Division,Institutional Fund,Birchgate Development LLC,Franchised,Larkspur Management Ltd.,Jordan Abernathy
+MYKLU,Lumen Mykonos,Lumen Hotels,Open,Lifestyle,Urban,610,Greece,Lifestyle Division,REIT,Wexford Development LLC,Franchised,Brightwater Operating Group,Jordan Lindqvist
+CAIEO,Northvale Calgary Midtown,Northvale Hotels,Open,Full Service,Business,799,Canada,Americas Division,Private Individual,Verity Hotel Holdings,Franchised,Sableridge Hotel Partners,
+SHECL,Northvale Vacation Club Shenzhen,Northvale Vacation Club,Open,Timeshare,Urban,94,China,APAC Division,Public Company,Sterling Vale Real Estate Partners,Managed,Northvale Hotel Group,
+CALSL,Vale Place Cairo Midtown,Vale Place,Pipeline,Select Service,Urban,95,Egypt,EMEA Division,Private Company,Birchgate Investments Ltd.,Franchised,Aldermoor Hospitality,
+ISRNS,Vale Place Istanbul Uptown,Vale Place,Open,Select Service,Urban,155,Turkey,EMEA Division,Public Company,Verity Investments Ltd.,Franchised,Aldermoor Hospitality,Tomas Okafor

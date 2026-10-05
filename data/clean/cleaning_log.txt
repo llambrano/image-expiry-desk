@@ -1,0 +1,22 @@
+Image expiry report - cleaning log
+rows in:  9113
+rows out: 9154
+
+counters:
+  brand_slugs_collapsed            312
+  duplicate_files_skipped          1
+  multi_property_rows              29
+  preview_column_dropped           1
+  property_codes_lowercased        89
+  rows_after_bundle_explode        9154
+  rows_expired_at_issue            373
+  rows_matched_to_master           8621
+  rows_nonprod_url                 464
+  rows_not_property_level          340
+  rows_unmatched_to_master         193
+  urls_encoded                     33
+
+notes:
+  files found: 45   files loaded: 44
+  duplicate file skipped: 2025 01 21 - image_expiry_report_resend.xlsx (identical to 2025 01 21 - image_expiry_report.xlsx)
+  3 property codes not in master (193 rows) -> unmatched_property_codes.csv

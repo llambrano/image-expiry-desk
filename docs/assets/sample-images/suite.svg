@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" fill="#F1ECE6"/>
+<rect x="80" y="80" width="1040" height="360" fill="#9FC4D8"/>
+<path d="M80 330 L260 250 L420 300 L610 210 L800 290 L960 230 L1120 280 V440 H80Z" fill="#7A9BAE"/>
+<g stroke="#fff" stroke-width="12"><line x1="340" y1="80" x2="340" y2="440"/><line x1="600" y1="80" x2="600" y2="440"/><line x1="860" y1="80" x2="860" y2="440"/></g>
+<rect x="80" y="80" width="1040" height="360" fill="none" stroke="#fff" stroke-width="16"/>
+<rect y="580" width="1200" height="220" fill="#B7A48E"/>
+<rect x="210" y="450" width="560" height="150" rx="24" fill="#3F5566"/>
+<rect x="190" y="520" width="600" height="100" rx="20" fill="#4E6A7E"/>
+<rect x="250" y="470" width="120" height="70" rx="16" fill="#E0B96A"/><rect x="600" y="470" width="120" height="70" rx="16" fill="#E0B96A"/>
+<rect x="820" y="610" width="240" height="24" rx="12" fill="#6F5A45"/><rect x="900" y="634" width="12" height="60" fill="#6F5A45"/><rect x="968" y="634" width="12" height="60" fill="#6F5A45"/>
+<rect x="890" y="570" width="30" height="40" rx="4" fill="#F4F1EA"/><circle cx="905" cy="555" r="22" fill="#D56C5C"/>
+<rect x="380" y="660" width="440" height="30" rx="15" fill="#8C735A"/><g font-family="Helvetica,Arial,sans-serif"><rect x="32" y="722" width="327" height="46" rx="8" fill="#0F1B24" fill-opacity=".72"/><text x="52" y="752" font-size="20" font-weight="700" fill="#fff" letter-spacing="1.5">SAMPLE</text><text x="148" y="752" font-size="20" fill="#DCE6EE">Suite living room</text></g></svg>

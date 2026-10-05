@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" fill="#E6EFEA"/>
+<rect y="540" width="1200" height="260" fill="#CBDCD2"/>
+<g fill="#D8E5DE"><rect x="40" y="0" width="14" height="540"/><rect x="100" y="0" width="14" height="540"/><rect x="160" y="0" width="14" height="540"/><rect x="220" y="0" width="14" height="540"/><rect x="280" y="0" width="14" height="540"/><rect x="340" y="0" width="14" height="540"/><rect x="400" y="0" width="14" height="540"/><rect x="460" y="0" width="14" height="540"/><rect x="520" y="0" width="14" height="540"/><rect x="580" y="0" width="14" height="540"/><rect x="640" y="0" width="14" height="540"/><rect x="700" y="0" width="14" height="540"/><rect x="760" y="0" width="14" height="540"/><rect x="820" y="0" width="14" height="540"/><rect x="880" y="0" width="14" height="540"/><rect x="940" y="0" width="14" height="540"/><rect x="1000" y="0" width="14" height="540"/><rect x="1060" y="0" width="14" height="540"/><rect x="1120" y="0" width="14" height="540"/><rect x="1180" y="0" width="14" height="540"/></g>
+<rect x="260" y="400" width="680" height="70" rx="30" fill="#FFFFFF"/>
+<rect x="300" y="470" width="20" height="150" fill="#9E8466"/><rect x="880" y="470" width="20" height="150" fill="#9E8466"/>
+<rect x="300" y="380" width="200" height="40" rx="20" fill="#F2F0EA"/>
+<g fill="#8BA99A"><ellipse cx="1010" cy="610" rx="70" ry="34"/><ellipse cx="1000" cy="560" rx="56" ry="28"/><ellipse cx="1015" cy="515" rx="42" ry="22"/><ellipse cx="1005" cy="478" rx="30" ry="16"/></g>
+<g fill="#F4E8C8"><rect x="130" y="620" width="40" height="70" rx="6"/><ellipse cx="150" cy="610" rx="8" ry="14" fill="#FFB84D"/><rect x="190" y="620" width="40" height="70" rx="6"/><ellipse cx="210" cy="610" rx="8" ry="14" fill="#FFB84D"/></g>
+<path d="M600 250 q-60 -80 0 -160 q60 80 0 160z" fill="#9CC3AE"/>
+<path d="M600 250 q-110 -40 -130 -130 q90 20 130 130z" fill="#B5D5C3"/>
+<path d="M600 250 q110 -40 130 -130 q-90 20 -130 130z" fill="#B5D5C3"/>
+<rect x="520" y="670" width="160" height="16" rx="8" fill="#FFFFFF"/><rect x="540" y="650" width="120" height="20" rx="8" fill="#FFFFFF"/><g font-family="Helvetica,Arial,sans-serif"><rect x="32" y="722" width="173" height="46" rx="8" fill="#0F1B24" fill-opacity=".72"/><text x="52" y="752" font-size="20" font-weight="700" fill="#fff" letter-spacing="1.5">SAMPLE</text><text x="148" y="752" font-size="20" fill="#DCE6EE">Spa</text></g></svg>

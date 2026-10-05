@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" fill="#E9EEF2"/>
+<rect x="760" y="90" width="340" height="380" fill="#BFD9EA"/><rect x="760" y="90" width="340" height="380" fill="none" stroke="#fff" stroke-width="14"/>
+<line x1="930" y1="90" x2="930" y2="470" stroke="#fff" stroke-width="10"/>
+<path d="M760 90h60v380h-60z" fill="#C3A98A"/><path d="M1040 90h60v380h-60z" fill="#C3A98A"/>
+<rect y="600" width="1200" height="200" fill="#9C8570"/>
+<rect x="150" y="250" width="520" height="190" rx="14" fill="#5B6E7E"/>
+<rect x="120" y="430" width="580" height="190" rx="18" fill="#F7F7F4"/>
+<rect x="120" y="500" width="580" height="120" rx="10" fill="#D7E1E8"/>
+<rect x="175" y="385" width="200" height="80" rx="30" fill="#FFFFFF"/><rect x="440" y="385" width="200" height="80" rx="30" fill="#FFFFFF"/>
+<rect x="120" y="610" width="580" height="30" fill="#6B5846"/>
+<rect x="30" y="470" width="80" height="120" rx="6" fill="#8A7159"/><rect x="45" y="400" width="10" height="70" fill="#444"/>
+<path d="M20 400h60l-12-60H32z" fill="#F2D79B"/>
+<rect x="710" y="470" width="80" height="120" rx="6" fill="#8A7159"/><g font-family="Helvetica,Arial,sans-serif"><rect x="32" y="722" width="239" height="46" rx="8" fill="#0F1B24" fill-opacity=".72"/><text x="52" y="752" font-size="20" font-weight="700" fill="#fff" letter-spacing="1.5">SAMPLE</text><text x="148" y="752" font-size="20" fill="#DCE6EE">Guestroom</text></g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8FD0F0"/><stop offset="1" stop-color="#DDF2FB"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="980" cy="140" r="60" fill="#FFE08A"/>
+<rect y="360" width="1200" height="440" fill="#EFE5D2"/>
+<path d="M140 440 H1060 L1140 720 H60Z" fill="#2EA6C9"/>
+<path d="M170 460 H1030 L1100 700 H100Z" fill="#48C1E0"/>
+<g stroke="#A7E7F5" stroke-width="6" fill="none" stroke-linecap="round"><path d="M250 540 q30 -16 60 0 t60 0"/><path d="M560 600 q30 -16 60 0 t60 0"/><path d="M820 520 q30 -16 60 0 t60 0"/><path d="M420 660 q30 -16 60 0 t60 0"/><path d="M760 650 q30 -16 60 0 t60 0"/></g>
+<g fill="#F7F7F2"><rect x="120" y="380" width="150" height="30" rx="8"/><rect x="230" y="350" width="40" height="40" rx="6"/><rect x="380" y="380" width="150" height="30" rx="8"/><rect x="490" y="350" width="40" height="40" rx="6"/><rect x="640" y="380" width="150" height="30" rx="8"/><rect x="750" y="350" width="40" height="40" rx="6"/><rect x="900" y="380" width="150" height="30" rx="8"/><rect x="1010" y="350" width="40" height="40" rx="6"/></g>
+<g><line x1="260" y1="380" x2="260" y2="220" stroke="#8C6B48" stroke-width="6"/><path d="M170 240 Q260 170 350 240Z" fill="#E86F5A"/><line x1="780" y1="380" x2="780" y2="220" stroke="#8C6B48" stroke-width="6"/><path d="M690 240 Q780 170 870 240Z" fill="#E86F5A"/></g>
+<path d="M40 360 C60 250 70 180 60 90" stroke="#7B5A3A" stroke-width="16" fill="none"/>
+<g fill="#4F9A5E"><path d="M60 90 q-80 -10 -120 50 q70 -20 120 -50z"/><path d="M60 90 q80 -20 130 30 q-70 -10 -130 -30z"/><path d="M60 90 q-20 -70 30 -110 q-10 60 -30 110z"/></g><g font-family="Helvetica,Arial,sans-serif"><rect x="32" y="722" width="184" height="46" rx="8" fill="#0F1B24" fill-opacity=".72"/><text x="52" y="752" font-size="20" font-weight="700" fill="#fff" letter-spacing="1.5">SAMPLE</text><text x="148" y="752" font-size="20" fill="#DCE6EE">Pool</text></g></svg>
